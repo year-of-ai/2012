@@ -63,6 +63,7 @@ NASA's live broadcast of the landing drew exceptional viewership. Footage of the
 
 - [2012 London Summer Olympics](../history-politics/london-2012-olympics.md) — the Games closed just weeks before Curiosity's landing, in the same eventful summer of 2012
 - [2012 United States Presidential Election](../history-politics/2012-us-presidential-election.md) — Curiosity's discoveries were an early-term backdrop to Obama's second administration
+- [Higgs Boson Discovery](higgs-boson-discovery.md) — the other landmark science milestone of summer 2012
 
 ## Sources
 

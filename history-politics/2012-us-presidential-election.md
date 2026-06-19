@@ -60,6 +60,7 @@ From a historical perspective, Obama became the third consecutive sitting presid
 ## See Also
 
 - [2012 London Summer Olympics](london-2012-olympics.md) — the other defining global event of 2012, held months before the U.S. election
+- [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — the global economic backdrop that shaped the campaign's debate over jobs and recovery
 
 ## Sources
 
