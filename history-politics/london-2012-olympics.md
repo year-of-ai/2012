@@ -61,6 +61,8 @@ The legacy debate around Olympic costs (the overrun from £2.4bn to £8.77bn att
 - [2012 United States Presidential Election](2012-us-presidential-election.md) — the major political event of the same year
 - [Curiosity Rover Mars Landing](../science-technology/curiosity-rover-mars-landing.md) — also August 2012, weeks after the Games closed
 - [Higgs Boson Discovery](../science-technology/higgs-boson-discovery.md) — the landmark science event of the same summer, announced days before the opening ceremony
+- [Adele's Album "21" — 2012 Dominance](../arts-culture/adeles-21-album.md) — the year's other landmark of British cultural achievement, its Grammy sweep falling that February
+- [The Hobbit: An Unexpected Journey](../arts-culture/the-hobbit-unexpected-journey.md) — a major arts-and-culture release of the same year, in December
 
 ## Sources
 

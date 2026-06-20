@@ -25,7 +25,10 @@ Category index: [science-technology/index.md](science-technology/index.md)
 
 ## Arts & Culture
 
-*No entries yet.*
+Category index: [arts-culture/index.md](arts-culture/index.md)
+
+- [Adele's Album "21" — 2012 Dominance](arts-culture/adeles-21-album.md)
+- [The Hobbit: An Unexpected Journey](arts-culture/the-hobbit-unexpected-journey.md)
 
 ## Society & Economics
 

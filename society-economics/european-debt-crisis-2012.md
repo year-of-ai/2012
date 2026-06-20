@@ -82,6 +82,8 @@ The 2012 escalation was the moment when the eurozone's survival was genuinely in
 
 - [Syrian Civil War — 2012 Escalation](../history-politics/syrian-civil-war-escalation-2012.md) — a concurrent global crisis that competed for Western governments' attention in 2012
 - [Higgs Boson Discovery](../science-technology/higgs-boson-discovery.md) — a landmark scientific event of the same year
+- [Adele's Album "21" — 2012 Dominance](../arts-culture/adeles-21-album.md) — a cultural high point set against the backdrop of austerity Europe
+- [The Hobbit: An Unexpected Journey](../arts-culture/the-hobbit-unexpected-journey.md) — blockbuster franchise cinema as mass entertainment during the eurozone downturn
 
 ## Sources
 
