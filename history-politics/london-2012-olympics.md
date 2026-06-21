@@ -59,6 +59,7 @@ The legacy debate around Olympic costs (the overrun from £2.4bn to £8.77bn att
 ## See Also
 
 - [2012 United States Presidential Election](2012-us-presidential-election.md) — the major political event of the same year
+- [Juan Manuel Santos — Colombian Peace Process](../people/juan-manuel-santos-peace-process.md) — another 2012 marker of Colombia's growing international presence
 - [Curiosity Rover Mars Landing](../science-technology/curiosity-rover-mars-landing.md) — also August 2012, weeks after the Games closed
 - [Higgs Boson Discovery](../science-technology/higgs-boson-discovery.md) — the landmark science event of the same summer, announced days before the opening ceremony
 - [Adele's Album "21" — 2012 Dominance](../arts-culture/adeles-21-album.md) — the year's other landmark of British cultural achievement, its Grammy sweep falling that February

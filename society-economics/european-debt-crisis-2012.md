@@ -80,6 +80,8 @@ The 2012 escalation was the moment when the eurozone's survival was genuinely in
 
 ## See Also
 
+- [Barack Obama — 2012 Re-election Victory](../people/barack-obama-2012-reelection.md) — the U.S. re-election campaign waged against this global economic backdrop
+- [Juan Manuel Santos — Colombian Peace Process](../people/juan-manuel-santos-peace-process.md) — peacebuilding pursued as part of Colombia's growth-oriented integration into global markets
 - [Syrian Civil War — 2012 Escalation](../history-politics/syrian-civil-war-escalation-2012.md) — a concurrent global crisis that competed for Western governments' attention in 2012
 - [Higgs Boson Discovery](../science-technology/higgs-boson-discovery.md) — a landmark scientific event of the same year
 - [Adele's Album "21" — 2012 Dominance](../arts-culture/adeles-21-album.md) — a cultural high point set against the backdrop of austerity Europe

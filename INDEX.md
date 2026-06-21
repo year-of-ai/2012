@@ -38,5 +38,9 @@ Category index: [society-economics/index.md](society-economics/index.md)
 
 ## People
 
-*No entries yet.*
+Category index: [people/index.md](people/index.md)
+
+- [Vladimir Putin — 2012 Return to Presidency](people/vladimir-putin-2012-presidency.md)
+- [Barack Obama — 2012 Re-election Victory](people/barack-obama-2012-reelection.md)
+- [Juan Manuel Santos — Colombian Peace Process](people/juan-manuel-santos-peace-process.md)
 <!-- END GENERATED: master-index -->

@@ -59,6 +59,8 @@ From a historical perspective, Obama became the third consecutive sitting presid
 
 ## See Also
 
+- [Barack Obama — 2012 Re-election Victory](../people/barack-obama-2012-reelection.md) — a closer focus on the victor's campaign organization, demographic coalition, and second-term mandate
+- [Vladimir Putin — 2012 Return to Presidency](../people/vladimir-putin-2012-presidency.md) — the Russian leader whose policy was a flashpoint in the third presidential debate
 - [2012 London Summer Olympics](london-2012-olympics.md) — the other defining global event of 2012, held months before the U.S. election
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — the global economic backdrop that shaped the campaign's debate over jobs and recovery
 - [The Hobbit: An Unexpected Journey](../arts-culture/the-hobbit-unexpected-journey.md) — the year's major arts-and-culture blockbuster, released the month after the election
