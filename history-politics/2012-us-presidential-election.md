@@ -64,6 +64,7 @@ From a historical perspective, Obama became the third consecutive sitting presid
 - [2012 London Summer Olympics](london-2012-olympics.md) — the other defining global event of 2012, held months before the U.S. election
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — the global economic backdrop that shaped the campaign's debate over jobs and recovery
 - [The Hobbit: An Unexpected Journey](../arts-culture/the-hobbit-unexpected-journey.md) — the year's major arts-and-culture blockbuster, released the month after the election
+- [Occupy Wall Street — 2012 Momentum](../society-economics/occupy-wall-street-2012.md) — the protest movement whose inequality critique colored the campaign's economic debate
 
 ## Sources
 

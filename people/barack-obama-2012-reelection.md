@@ -61,6 +61,7 @@ The 2012 election validated statistical forecasting models as superior predictor
 
 - [2012 US Presidential Election](../history-politics/2012-us-presidential-election.md) — full electoral context, results breakdown, and policy debates
 - [European Debt Crisis 2012](../society-economics/european-debt-crisis-2012.md) — the global economic backdrop that shaped voter perceptions of U.S. economic management
+- [Occupy Wall Street — 2012 Momentum](../society-economics/occupy-wall-street-2012.md) — the movement whose "99%" framing pushed inequality into the campaign's messaging
 
 ## Sources
 

@@ -29,12 +29,14 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 
 - [Adele's Album "21" — 2012 Dominance](arts-culture/adeles-21-album.md)
 - [The Hobbit: An Unexpected Journey](arts-culture/the-hobbit-unexpected-journey.md)
+- [Pro Evolution Soccer 2013](arts-culture/pro-evolution-soccer-2013.md)
 
 ## Society & Economics
 
 Category index: [society-economics/index.md](society-economics/index.md)
 
 - [European Debt Crisis — 2012 Escalation](society-economics/european-debt-crisis-2012.md)
+- [Occupy Wall Street — 2012 Momentum](society-economics/occupy-wall-street-2012.md)
 
 ## People
 
