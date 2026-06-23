@@ -61,6 +61,7 @@ The 2012 escalation marked the irreversible transformation of the Syrian uprisin
 - [Juan Manuel Santos — Colombian Peace Process](../people/juan-manuel-santos-peace-process.md) — a contemporary armed conflict that turned toward negotiation rather than escalation
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — a concurrent crisis that shaped Western governments' attention and resources during this period
 - [Higgs Boson Discovery](../science-technology/higgs-boson-discovery.md) — a landmark scientific event of the same year
+- [KONY 2012 Campaign](../society-economics/kony-2012-campaign.md) — another 2012 humanitarian cause in which social-media documentation met international advocacy debates
 
 ## Sources
 

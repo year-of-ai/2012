@@ -67,6 +67,8 @@ OWS's 2012 activity belongs to a global wave of protest movements that defined t
 - [2012 U.S. Presidential Election](../history-politics/2012-us-presidential-election.md) — the electoral context in which OWS's economic critique intersected with campaign politics
 - [Barack Obama's 2012 Reelection](../people/barack-obama-2012-reelection.md) — the winning candidate whose economic messaging shifted measurably in response to inequality discourse
 - [European Debt Crisis 2012](european-debt-crisis-2012.md) — the parallel economic crisis that gave Occupy's critique global resonance
+- [KONY 2012 Campaign](kony-2012-campaign.md) — a parallel 2012 case in the debate over social-media activism and the gap between online and offline mobilization
+- [Instagram Facebook Acquisition 2012](../science-technology/instagram-facebook-acquisition-2012.md) — the consolidating social-media infrastructure on which movements like Occupy organized and circulated
 
 ## Sources
 

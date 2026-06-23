@@ -22,6 +22,8 @@ Category index: [science-technology/index.md](science-technology/index.md)
 
 - [Higgs Boson Discovery](science-technology/higgs-boson-discovery.md)
 - [Curiosity Rover Mars Landing](science-technology/curiosity-rover-mars-landing.md)
+- [Instagram Facebook Acquisition 2012](science-technology/instagram-facebook-acquisition-2012.md)
+- [Windows 8 Release](science-technology/windows-8-release.md)
 
 ## Arts & Culture
 
@@ -37,6 +39,7 @@ Category index: [society-economics/index.md](society-economics/index.md)
 
 - [European Debt Crisis — 2012 Escalation](society-economics/european-debt-crisis-2012.md)
 - [Occupy Wall Street — 2012 Momentum](society-economics/occupy-wall-street-2012.md)
+- [KONY 2012 Campaign](society-economics/kony-2012-campaign.md)
 
 ## People
 

@@ -87,6 +87,7 @@ The 2012 escalation was the moment when the eurozone's survival was genuinely in
 - [Adele's Album "21" — 2012 Dominance](../arts-culture/adeles-21-album.md) — a cultural high point set against the backdrop of austerity Europe
 - [The Hobbit: An Unexpected Journey](../arts-culture/the-hobbit-unexpected-journey.md) — blockbuster franchise cinema as mass entertainment during the eurozone downturn
 - [Occupy Wall Street — 2012 Momentum](occupy-wall-street-2012.md) — the anti-austerity, anti-inequality protest wave that drew global resonance from the eurozone crisis
+- [Instagram Facebook Acquisition 2012](../science-technology/instagram-facebook-acquisition-2012.md) — a billion-dollar technology deal that signaled the venture-capital exuberance running alongside Europe's downturn
 
 ## Sources
 

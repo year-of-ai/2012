@@ -64,6 +64,8 @@ The Higgs boson discovery represented the capstone of the **Standard Model**, co
 - [Curiosity Rover Mars Landing](curiosity-rover-mars-landing.md) — the other landmark science milestone of summer 2012
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — the broader economic backdrop of 2012
 - [Syrian Civil War — 2012 Escalation](../history-politics/syrian-civil-war-escalation-2012.md) — a defining geopolitical event of the same year
+- [Windows 8 Release](windows-8-release.md) — a major technology milestone of 2012 from a very different domain
+- [Instagram Facebook Acquisition 2012](instagram-facebook-acquisition-2012.md) — the year's defining moment in consumer technology and mobile platforms
 
 ## Sources
 
