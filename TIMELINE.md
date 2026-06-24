@@ -20,8 +20,10 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-07-15 | Syrian Civil War — 2012 Escalation | History & Politics | [link](history-politics/syrian-civil-war-escalation-2012.md) |
 | 2012-07-27 | 2012 London Summer Olympics | History & Politics | [link](history-politics/london-2012-olympics.md) |
 | 2012-08-06 | Curiosity Rover Mars Landing | Science & Technology | [link](science-technology/curiosity-rover-mars-landing.md) |
+| 2012-08-29 | 2012 London Summer Paralympics | History & Politics | [link](history-politics/london-2012-paralympics.md) |
 | 2012-09-21 | Pro Evolution Soccer 2013 | Arts & Culture | [link](arts-culture/pro-evolution-soccer-2013.md) |
 | 2012-10-26 | Windows 8 Release | Science & Technology | [link](science-technology/windows-8-release.md) |
+| 2012-10-29 | Hurricane Sandy — 2012 Atlantic Disaster | Society & Economics | [link](society-economics/hurricane-sandy-2012.md) |
 | 2012-11-06 | 2012 United States Presidential Election | History & Politics | [link](history-politics/2012-us-presidential-election.md) |
 | 2012-11-06 | Barack Obama — 2012 Re-election Victory | People | [link](people/barack-obama-2012-reelection.md) |
 | 2012-11-19 | Juan Manuel Santos — Colombian Peace Process | People | [link](people/juan-manuel-santos-peace-process.md) |

@@ -14,6 +14,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 
 - [Syrian Civil War — 2012 Escalation](history-politics/syrian-civil-war-escalation-2012.md)
 - [2012 London Summer Olympics](history-politics/london-2012-olympics.md)
+- [2012 London Summer Paralympics](history-politics/london-2012-paralympics.md)
 - [2012 United States Presidential Election](history-politics/2012-us-presidential-election.md)
 
 ## Science & Technology
@@ -40,6 +41,7 @@ Category index: [society-economics/index.md](society-economics/index.md)
 - [European Debt Crisis — 2012 Escalation](society-economics/european-debt-crisis-2012.md)
 - [Occupy Wall Street — 2012 Momentum](society-economics/occupy-wall-street-2012.md)
 - [KONY 2012 Campaign](society-economics/kony-2012-campaign.md)
+- [Hurricane Sandy — 2012 Atlantic Disaster](society-economics/hurricane-sandy-2012.md)
 
 ## People
 

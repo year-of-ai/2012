@@ -65,6 +65,7 @@ From a historical perspective, Obama became the third consecutive sitting presid
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — the global economic backdrop that shaped the campaign's debate over jobs and recovery
 - [The Hobbit: An Unexpected Journey](../arts-culture/the-hobbit-unexpected-journey.md) — the year's major arts-and-culture blockbuster, released the month after the election
 - [Occupy Wall Street — 2012 Momentum](../society-economics/occupy-wall-street-2012.md) — the protest movement whose inequality critique colored the campaign's economic debate
+- [Hurricane Sandy — 2012 Atlantic Disaster](../society-economics/hurricane-sandy-2012.md) — the storm whose response, eight days before the vote, shaped the campaign's closing week
 - [Instagram Facebook Acquisition 2012](../science-technology/instagram-facebook-acquisition-2012.md) — part of the same year's rise of the social-media platforms that reshaped political campaigning
 - [Windows 8 Release](../science-technology/windows-8-release.md) — the mobile and social computing shift the campaign's digital operations exemplified
 - [KONY 2012 Campaign](../society-economics/kony-2012-campaign.md) — a contemporaneous demonstration of social media's power and limits in political mobilization
