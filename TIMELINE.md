@@ -14,8 +14,11 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-03-05 | KONY 2012 Campaign | Society & Economics | [link](society-economics/kony-2012-campaign.md) |
 | 2012-04-09 | Instagram Facebook Acquisition 2012 | Science & Technology | [link](science-technology/instagram-facebook-acquisition-2012.md) |
 | 2012-05-01 | Occupy Wall Street — 2012 Momentum | Society & Economics | [link](society-economics/occupy-wall-street-2012.md) |
+| 2012-05-04 | The Avengers (2012 Film) | Arts & Culture | [link](arts-culture/the-avengers-2012-film.md) |
 | 2012-05-07 | Vladimir Putin — 2012 Return to Presidency | People | [link](people/vladimir-putin-2012-presidency.md) |
 | 2012-06-01 | European Debt Crisis — 2012 Escalation | Society & Economics | [link](society-economics/european-debt-crisis-2012.md) |
+| 2012-06-05 | Queen Elizabeth II Diamond Jubilee | History & Politics | [link](history-politics/queen-elizabeth-diamond-jubilee-2012.md) |
+| 2012-07-01 | UEFA Euro 2012 Football Championship | Arts & Culture | [link](arts-culture/euro-2012-football-championship.md) |
 | 2012-07-04 | Higgs Boson Discovery | Science & Technology | [link](science-technology/higgs-boson-discovery.md) |
 | 2012-07-15 | Syrian Civil War — 2012 Escalation | History & Politics | [link](history-politics/syrian-civil-war-escalation-2012.md) |
 | 2012-07-27 | 2012 London Summer Olympics | History & Politics | [link](history-politics/london-2012-olympics.md) |

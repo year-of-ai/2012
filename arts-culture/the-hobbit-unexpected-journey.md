@@ -80,6 +80,7 @@ The three films collectively grossed approximately **$2.93 billion** worldwide, 
 ## See Also
 
 - [Adele's Album "21" — 2012 Dominance](adeles-21-album.md) — the other landmark arts-and-culture event of 2012
+- [The Avengers (2012 Film)](the-avengers-2012-film.md) — 2012's highest-grossing film, the other billion-dollar franchise blockbuster of the year
 - [2012 London Summer Olympics](../history-politics/london-2012-olympics.md) — Danny Boyle's opening ceremony was another massive piece of British cultural production in 2012
 - [2012 United States Presidential Election](../history-politics/2012-us-presidential-election.md) — the major American political event of the same year
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — the economic context of austerity Europe in which blockbuster franchise cinema served as major entertainment

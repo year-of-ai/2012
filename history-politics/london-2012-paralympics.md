@@ -56,6 +56,7 @@ Internationally, the London model influenced how developing-nation Paralympic co
 ## See Also
 
 - [2012 London Summer Olympics](london-2012-olympics.md) — the Summer Games the Paralympics immediately followed, sharing venues, ticketing, and organization
+- [Queen Elizabeth II Diamond Jubilee](queen-elizabeth-diamond-jubilee-2012.md) — the earlier centrepiece of 2012's summer of British national occasion
 - [2012 United States Presidential Election](2012-us-presidential-election.md) — the other defining global event of autumn 2012
 - [Adele's Album "21" — 2012 Dominance](../arts-culture/adeles-21-album.md) — the year's other landmark of British cultural achievement
 - [Hurricane Sandy — 2012 Atlantic Disaster](../society-economics/hurricane-sandy-2012.md) — the major disaster that struck weeks after the Games closed

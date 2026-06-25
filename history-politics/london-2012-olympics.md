@@ -59,6 +59,8 @@ The legacy debate around Olympic costs (the overrun from £2.4bn to £8.77bn att
 ## See Also
 
 - [2012 London Summer Paralympics](london-2012-paralympics.md) — the Paralympic Games staged in the same venues immediately afterward, August 29–September 9
+- [Queen Elizabeth II Diamond Jubilee](queen-elizabeth-diamond-jubilee-2012.md) — the Queen's 60-year milestone, celebrated in June 2012 as part of the same summer of British national occasion
+- [UEFA Euro 2012 Football Championship](../arts-culture/euro-2012-football-championship.md) — the European football tournament that closed on July 1, weeks before the Games opened
 - [2012 United States Presidential Election](2012-us-presidential-election.md) — the major political event of the same year
 - [Juan Manuel Santos — Colombian Peace Process](../people/juan-manuel-santos-peace-process.md) — another 2012 marker of Colombia's growing international presence
 - [Curiosity Rover Mars Landing](../science-technology/curiosity-rover-mars-landing.md) — also August 2012, weeks after the Games closed

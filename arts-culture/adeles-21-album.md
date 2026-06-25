@@ -60,6 +60,7 @@ The Grammy broadcast reached an estimated **39.9 million viewers** in the United
 
 - [2012 London Summer Olympics](../history-politics/london-2012-olympics.md) — another defining British cultural triumph of 2012, held that summer (July–August) some months after the February Grammy ceremony
 - [The Hobbit: An Unexpected Journey](the-hobbit-unexpected-journey.md) — the other major arts-culture landmark of 2012, released in December
+- [The Avengers (2012 Film)](the-avengers-2012-film.md) — the year's highest-grossing film, the May blockbuster counterpart to *21*'s musical dominance
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — the economic backdrop of austerity Britain that shaped public cultural consumption in 2012
 - [Pro Evolution Soccer 2013](pro-evolution-soccer-2013.md) — a 2012 entertainment release whose critical resurgence paralleled *21*'s sustained commercial dominance
 

@@ -12,6 +12,7 @@ chronological [TIMELINE](TIMELINE.md).
 
 Category index: [history-politics/index.md](history-politics/index.md)
 
+- [Queen Elizabeth II Diamond Jubilee](history-politics/queen-elizabeth-diamond-jubilee-2012.md)
 - [Syrian Civil War — 2012 Escalation](history-politics/syrian-civil-war-escalation-2012.md)
 - [2012 London Summer Olympics](history-politics/london-2012-olympics.md)
 - [2012 London Summer Paralympics](history-politics/london-2012-paralympics.md)
@@ -33,6 +34,8 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 - [Adele's Album "21" — 2012 Dominance](arts-culture/adeles-21-album.md)
 - [The Hobbit: An Unexpected Journey](arts-culture/the-hobbit-unexpected-journey.md)
 - [Pro Evolution Soccer 2013](arts-culture/pro-evolution-soccer-2013.md)
+- [The Avengers (2012 Film)](arts-culture/the-avengers-2012-film.md)
+- [UEFA Euro 2012 Football Championship](arts-culture/euro-2012-football-championship.md)
 
 ## Society & Economics
 

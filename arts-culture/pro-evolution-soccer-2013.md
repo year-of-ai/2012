@@ -52,6 +52,8 @@ The game's platform choices — maintaining PS2 and Wii support while investing 
 - [The Hobbit: An Unexpected Journey](the-hobbit-unexpected-journey.md) — another major 2012 entertainment release navigating franchise legacy and new technology
 - [Adele's *21* Album](adeles-21-album.md) — dominant popular-culture force whose 2012 momentum paralleled PES's critical resurgence
 - [London 2012 Olympics](../history-politics/london-2012-olympics.md) — the defining sports event of the year, reflecting the same global football culture PES served
+- [UEFA Euro 2012 Football Championship](euro-2012-football-championship.md) — the summer's real-world football showpiece that the game simulated
+- [The Avengers (2012 Film)](the-avengers-2012-film.md) — another 2012 entry in a major entertainment franchise
 
 ## Sources
 
