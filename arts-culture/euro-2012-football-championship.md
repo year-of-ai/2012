@@ -54,6 +54,7 @@ Spain's victory completed an unprecedented era of international dominance, their
 - [2012 London Summer Olympics](../history-politics/london-2012-olympics.md) — the other great European sporting spectacle of summer 2012, weeks after the Euro final
 - [Queen Elizabeth II Diamond Jubilee](../history-politics/queen-elizabeth-diamond-jubilee-2012.md) — Britain's parallel summer of national celebration in June 2012
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — the economic backdrop, acute in host and participant nations such as Greece, Portugal, and Ireland
+- [Gangnam Style Viral Phenomenon](gangnam-style-viral-phenomenon.md) — the summer's inescapable pop moment, whose horse-riding dance footballers folded into goal celebrations
 
 ## Sources
 

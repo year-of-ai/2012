@@ -52,6 +52,7 @@ In 2017, *Empire* magazine ranked it among the 100 greatest films of all time. T
 - [The Hobbit: An Unexpected Journey](the-hobbit-unexpected-journey.md) — the year's other billion-dollar franchise film, opening in December
 - [Adele's Album "21" — 2012 Dominance](adeles-21-album.md) — the dominant music story of the same year
 - [Pro Evolution Soccer 2013](pro-evolution-soccer-2013.md) — another 2012 entry in a major entertainment franchise
+- [Gangnam Style Viral Phenomenon](gangnam-style-viral-phenomenon.md) — the year's other globe-spanning popular-entertainment juggernaut, built on digital virality
 
 ## Sources
 

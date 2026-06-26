@@ -68,6 +68,7 @@ The legacy debate around Olympic costs (the overrun from £2.4bn to £8.77bn att
 - [Adele's Album "21" — 2012 Dominance](../arts-culture/adeles-21-album.md) — the year's other landmark of British cultural achievement, its Grammy sweep falling that February
 - [The Hobbit: An Unexpected Journey](../arts-culture/the-hobbit-unexpected-journey.md) — a major arts-and-culture release of the same year, in December
 - [Pro Evolution Soccer 2013](../arts-culture/pro-evolution-soccer-2013.md) — a September 2012 release reflecting the same global football culture the Games showcased
+- [Gangnam Style Viral Phenomenon](../arts-culture/gangnam-style-viral-phenomenon.md) — the global pop sensation of the same summer, its dance appearing in athletes' celebrations during the Games
 
 ## Sources
 

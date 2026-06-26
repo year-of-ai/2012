@@ -26,6 +26,8 @@ Category index: [science-technology/index.md](science-technology/index.md)
 - [Curiosity Rover Mars Landing](science-technology/curiosity-rover-mars-landing.md)
 - [Instagram Facebook Acquisition 2012](science-technology/instagram-facebook-acquisition-2012.md)
 - [Windows 8 Release](science-technology/windows-8-release.md)
+- [Apple iPhone 5 Launch](science-technology/apple-iphone-5-launch.md)
+- [2012 Arctic Sea Ice Minimum](science-technology/arctic-sea-ice-minimum-2012.md)
 
 ## Arts & Culture
 
@@ -36,6 +38,7 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 - [Pro Evolution Soccer 2013](arts-culture/pro-evolution-soccer-2013.md)
 - [The Avengers (2012 Film)](arts-culture/the-avengers-2012-film.md)
 - [UEFA Euro 2012 Football Championship](arts-culture/euro-2012-football-championship.md)
+- [Gangnam Style Viral Phenomenon](arts-culture/gangnam-style-viral-phenomenon.md)
 
 ## Society & Economics
 

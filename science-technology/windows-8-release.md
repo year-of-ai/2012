@@ -115,6 +115,7 @@ Despite its market failure, Windows 8 introduced several technical features that
 ## See Also
 
 - [Instagram Facebook Acquisition 2012](instagram-facebook-acquisition-2012.md) — the mobile-first design philosophy Instagram embodied was the strategic landscape Windows 8 sought to enter
+- [Apple iPhone 5 Launch](apple-iphone-5-launch.md) — the year's other major computing-platform event, pursuing the opposite, deliberately separate mobile-and-desktop strategy
 - [Curiosity Rover Mars Landing](curiosity-rover-mars-landing.md) — NASA's landmark 2012 achievement shared the year's technology spotlight with Windows 8
 - [Higgs Boson Discovery](higgs-boson-discovery.md) — another major 2012 technological milestone, though from a radically different domain
 - [2012 U.S. Presidential Election](../history-politics/2012-us-presidential-election.md) — the election highlighted mobile and social media's dominance, the exact market Windows 8 sought to compete in

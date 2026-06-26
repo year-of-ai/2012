@@ -65,6 +65,7 @@ NASA's live broadcast of the landing drew exceptional viewership. Footage of the
 - [2012 United States Presidential Election](../history-politics/2012-us-presidential-election.md) — Curiosity's discoveries were an early-term backdrop to Obama's second administration
 - [Higgs Boson Discovery](higgs-boson-discovery.md) — the other landmark science milestone of summer 2012
 - [Windows 8 Release](windows-8-release.md) — the year's other major technology event, Microsoft's most significant operating-system redesign in nearly two decades
+- [2012 Arctic Sea Ice Minimum](arctic-sea-ice-minimum-2012.md) — a 2012 Earth-science milestone that, unlike Curiosity, measured a warning rather than an achievement
 
 ## Sources
 

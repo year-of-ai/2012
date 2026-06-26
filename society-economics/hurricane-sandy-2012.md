@@ -70,6 +70,7 @@ Hurricane Sandy's legacy encompasses multiple dimensions: the immediate human an
 - [2012 United States Presidential Election](../history-politics/2012-us-presidential-election.md) — the election held eight days after landfall, on which the storm response left a mark
 - [Barack Obama — 2012 Re-election Victory](../people/barack-obama-2012-reelection.md) — the incumbent whose disaster response in the final campaign week drew bipartisan praise
 - [KONY 2012 Campaign](kony-2012-campaign.md) — another 2012 case of social media driving rapid, large-scale civic mobilization
+- [2012 Arctic Sea Ice Minimum](../science-technology/arctic-sea-ice-minimum-2012.md) — the record Arctic melt of the same year, central to debate over whether a warming Arctic shapes mid-latitude storms like Sandy
 
 ## Sources
 

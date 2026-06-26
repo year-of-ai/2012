@@ -66,6 +66,7 @@ The Higgs boson discovery represented the capstone of the **Standard Model**, co
 - [Syrian Civil War — 2012 Escalation](../history-politics/syrian-civil-war-escalation-2012.md) — a defining geopolitical event of the same year
 - [Windows 8 Release](windows-8-release.md) — a major technology milestone of 2012 from a very different domain
 - [Instagram Facebook Acquisition 2012](instagram-facebook-acquisition-2012.md) — the year's defining moment in consumer technology and mobile platforms
+- [2012 Arctic Sea Ice Minimum](arctic-sea-ice-minimum-2012.md) — a contrasting 2012 science story, recording an environmental warning rather than a discovery
 
 ## Sources
 
