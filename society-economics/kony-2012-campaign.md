@@ -113,6 +113,7 @@ KONY 2012 became a canonical case study in multiple academic disciplines:
 - [Syrian Civil War — 2012 Escalation](../history-politics/syrian-civil-war-escalation-2012.md) — another major humanitarian crisis in 2012 in which social media documentation intersected with international advocacy debates
 - [2012 U.S. Presidential Election](../history-politics/2012-us-presidential-election.md) — the election in which social media's role in political mobilization was debated, with KONY 2012 a prominent example of both its power and limits
 - [Instagram Facebook Acquisition 2012](../science-technology/instagram-facebook-acquisition-2012.md) — the social media infrastructure that amplified KONY 2012 was simultaneously being consolidated under Facebook
+- [Malala Yousafzai October 2012 Shooting](../people/malala-yousafzai-2012-shooting.md) — another 2012 cause that drew vast global attention to human rights through online mobilization
 
 ## Sources
 

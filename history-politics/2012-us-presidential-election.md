@@ -69,6 +69,7 @@ From a historical perspective, Obama became the third consecutive sitting presid
 - [Instagram Facebook Acquisition 2012](../science-technology/instagram-facebook-acquisition-2012.md) — part of the same year's rise of the social-media platforms that reshaped political campaigning
 - [Windows 8 Release](../science-technology/windows-8-release.md) — the mobile and social computing shift the campaign's digital operations exemplified
 - [KONY 2012 Campaign](../society-economics/kony-2012-campaign.md) — a contemporaneous demonstration of social media's power and limits in political mobilization
+- [Mitt Romney 2012 Presidential Campaign](mitt-romney-2012-campaign.md) — the losing Republican campaign, its primary fight, the "47 percent" video, and the ORCA Election-Day failure
 
 ## Sources
 

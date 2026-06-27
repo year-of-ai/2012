@@ -70,6 +70,7 @@ OWS's 2012 activity belongs to a global wave of protest movements that defined t
 - [Hurricane Sandy — 2012 Atlantic Disaster](hurricane-sandy-2012.md) — the disaster whose Occupy Sandy relief effort grew directly out of the movement's organizing networks
 - [KONY 2012 Campaign](kony-2012-campaign.md) — a parallel 2012 case in the debate over social-media activism and the gap between online and offline mobilization
 - [Instagram Facebook Acquisition 2012](../science-technology/instagram-facebook-acquisition-2012.md) — the consolidating social-media infrastructure on which movements like Occupy organized and circulated
+- [Facebook Initial Public Offering 2012](facebook-ipo-2012.md) — the May IPO whose retail-investor losses fed the same Wall-Street-versus-Main-Street narrative Occupy advanced
 
 ## Sources
 

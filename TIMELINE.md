@@ -16,6 +16,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-05-01 | Occupy Wall Street — 2012 Momentum | Society & Economics | [link](society-economics/occupy-wall-street-2012.md) |
 | 2012-05-04 | The Avengers (2012 Film) | Arts & Culture | [link](arts-culture/the-avengers-2012-film.md) |
 | 2012-05-07 | Vladimir Putin — 2012 Return to Presidency | People | [link](people/vladimir-putin-2012-presidency.md) |
+| 2012-05-18 | Facebook Initial Public Offering 2012 | Society & Economics | [link](society-economics/facebook-ipo-2012.md) |
 | 2012-06-01 | European Debt Crisis — 2012 Escalation | Society & Economics | [link](society-economics/european-debt-crisis-2012.md) |
 | 2012-06-05 | Queen Elizabeth II Diamond Jubilee | History & Politics | [link](history-politics/queen-elizabeth-diamond-jubilee-2012.md) |
 | 2012-07-01 | UEFA Euro 2012 Football Championship | Arts & Culture | [link](arts-culture/euro-2012-football-championship.md) |
@@ -28,10 +29,12 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-09-16 | 2012 Arctic Sea Ice Minimum | Science & Technology | [link](science-technology/arctic-sea-ice-minimum-2012.md) |
 | 2012-09-21 | Pro Evolution Soccer 2013 | Arts & Culture | [link](arts-culture/pro-evolution-soccer-2013.md) |
 | 2012-09-21 | Apple iPhone 5 Launch | Science & Technology | [link](science-technology/apple-iphone-5-launch.md) |
+| 2012-10-09 | Malala Yousafzai October 2012 Shooting | People | [link](people/malala-yousafzai-2012-shooting.md) |
 | 2012-10-26 | Windows 8 Release | Science & Technology | [link](science-technology/windows-8-release.md) |
 | 2012-10-29 | Hurricane Sandy — 2012 Atlantic Disaster | Society & Economics | [link](society-economics/hurricane-sandy-2012.md) |
 | 2012-11-06 | 2012 United States Presidential Election | History & Politics | [link](history-politics/2012-us-presidential-election.md) |
 | 2012-11-06 | Barack Obama — 2012 Re-election Victory | People | [link](people/barack-obama-2012-reelection.md) |
+| 2012-11-06 | Mitt Romney 2012 Presidential Campaign | History & Politics | [link](history-politics/mitt-romney-2012-campaign.md) |
 | 2012-11-19 | Juan Manuel Santos — Colombian Peace Process | People | [link](people/juan-manuel-santos-peace-process.md) |
 | 2012-12-14 | The Hobbit: An Unexpected Journey | Arts & Culture | [link](arts-culture/the-hobbit-unexpected-journey.md) |
 <!-- END GENERATED: timeline -->

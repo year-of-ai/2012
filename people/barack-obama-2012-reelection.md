@@ -63,6 +63,7 @@ The 2012 election validated statistical forecasting models as superior predictor
 - [European Debt Crisis 2012](../society-economics/european-debt-crisis-2012.md) — the global economic backdrop that shaped voter perceptions of U.S. economic management
 - [Occupy Wall Street — 2012 Momentum](../society-economics/occupy-wall-street-2012.md) — the movement whose "99%" framing pushed inequality into the campaign's messaging
 - [Hurricane Sandy — 2012 Atlantic Disaster](../society-economics/hurricane-sandy-2012.md) — the late-October storm whose response burnished Obama's image of competent leadership before the vote
+- [Mitt Romney 2012 Presidential Campaign](../history-politics/mitt-romney-2012-campaign.md) — the opposing campaign Obama defeated, including its data operation and the "47 percent" controversy
 
 ## Sources
 

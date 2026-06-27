@@ -17,6 +17,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 - [2012 London Summer Olympics](history-politics/london-2012-olympics.md)
 - [2012 London Summer Paralympics](history-politics/london-2012-paralympics.md)
 - [2012 United States Presidential Election](history-politics/2012-us-presidential-election.md)
+- [Mitt Romney 2012 Presidential Campaign](history-politics/mitt-romney-2012-campaign.md)
 
 ## Science & Technology
 
@@ -48,6 +49,7 @@ Category index: [society-economics/index.md](society-economics/index.md)
 - [Occupy Wall Street — 2012 Momentum](society-economics/occupy-wall-street-2012.md)
 - [KONY 2012 Campaign](society-economics/kony-2012-campaign.md)
 - [Hurricane Sandy — 2012 Atlantic Disaster](society-economics/hurricane-sandy-2012.md)
+- [Facebook Initial Public Offering 2012](society-economics/facebook-ipo-2012.md)
 
 ## People
 
@@ -56,4 +58,5 @@ Category index: [people/index.md](people/index.md)
 - [Vladimir Putin — 2012 Return to Presidency](people/vladimir-putin-2012-presidency.md)
 - [Barack Obama — 2012 Re-election Victory](people/barack-obama-2012-reelection.md)
 - [Juan Manuel Santos — Colombian Peace Process](people/juan-manuel-santos-peace-process.md)
+- [Malala Yousafzai October 2012 Shooting](people/malala-yousafzai-2012-shooting.md)
 <!-- END GENERATED: master-index -->
