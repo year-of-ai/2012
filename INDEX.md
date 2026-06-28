@@ -15,6 +15,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 - [Queen Elizabeth II Diamond Jubilee](history-politics/queen-elizabeth-diamond-jubilee-2012.md)
 - [Syrian Civil War — 2012 Escalation](history-politics/syrian-civil-war-escalation-2012.md)
 - [2012 London Summer Olympics](history-politics/london-2012-olympics.md)
+- [London 2012 Olympics Opening Ceremony](history-politics/london-2012-opening-ceremony.md)
 - [2012 London Summer Paralympics](history-politics/london-2012-paralympics.md)
 - [2012 United States Presidential Election](history-politics/2012-us-presidential-election.md)
 - [Mitt Romney 2012 Presidential Campaign](history-politics/mitt-romney-2012-campaign.md)
@@ -29,6 +30,7 @@ Category index: [science-technology/index.md](science-technology/index.md)
 - [Windows 8 Release](science-technology/windows-8-release.md)
 - [Apple iPhone 5 Launch](science-technology/apple-iphone-5-launch.md)
 - [2012 Arctic Sea Ice Minimum](science-technology/arctic-sea-ice-minimum-2012.md)
+- [Venus Transit of June 2012](science-technology/venus-transit-june-2012.md)
 
 ## Arts & Culture
 

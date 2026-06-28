@@ -19,11 +19,13 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-05-18 | Facebook Initial Public Offering 2012 | Society & Economics | [link](society-economics/facebook-ipo-2012.md) |
 | 2012-06-01 | European Debt Crisis — 2012 Escalation | Society & Economics | [link](society-economics/european-debt-crisis-2012.md) |
 | 2012-06-05 | Queen Elizabeth II Diamond Jubilee | History & Politics | [link](history-politics/queen-elizabeth-diamond-jubilee-2012.md) |
+| 2012-06-06 | Venus Transit of June 2012 | Science & Technology | [link](science-technology/venus-transit-june-2012.md) |
 | 2012-07-01 | UEFA Euro 2012 Football Championship | Arts & Culture | [link](arts-culture/euro-2012-football-championship.md) |
 | 2012-07-04 | Higgs Boson Discovery | Science & Technology | [link](science-technology/higgs-boson-discovery.md) |
 | 2012-07-15 | Syrian Civil War — 2012 Escalation | History & Politics | [link](history-politics/syrian-civil-war-escalation-2012.md) |
 | 2012-07-15 | Gangnam Style Viral Phenomenon | Arts & Culture | [link](arts-culture/gangnam-style-viral-phenomenon.md) |
 | 2012-07-27 | 2012 London Summer Olympics | History & Politics | [link](history-politics/london-2012-olympics.md) |
+| 2012-07-27 | London 2012 Olympics Opening Ceremony | History & Politics | [link](history-politics/london-2012-opening-ceremony.md) |
 | 2012-08-06 | Curiosity Rover Mars Landing | Science & Technology | [link](science-technology/curiosity-rover-mars-landing.md) |
 | 2012-08-29 | 2012 London Summer Paralympics | History & Politics | [link](history-politics/london-2012-paralympics.md) |
 | 2012-09-16 | 2012 Arctic Sea Ice Minimum | Science & Technology | [link](science-technology/arctic-sea-ice-minimum-2012.md) |

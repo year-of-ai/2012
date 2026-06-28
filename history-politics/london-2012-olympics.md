@@ -58,6 +58,7 @@ The legacy debate around Olympic costs (the overrun from £2.4bn to £8.77bn att
 
 ## See Also
 
+- [London 2012 Olympics Opening Ceremony](london-2012-opening-ceremony.md) — Danny Boyle's "Isles of Wonder" spectacle that opened these Games on July 27
 - [2012 London Summer Paralympics](london-2012-paralympics.md) — the Paralympic Games staged in the same venues immediately afterward, August 29–September 9
 - [Queen Elizabeth II Diamond Jubilee](queen-elizabeth-diamond-jubilee-2012.md) — the Queen's 60-year milestone, celebrated in June 2012 as part of the same summer of British national occasion
 - [UEFA Euro 2012 Football Championship](../arts-culture/euro-2012-football-championship.md) — the European football tournament that closed on July 1, weeks before the Games opened
