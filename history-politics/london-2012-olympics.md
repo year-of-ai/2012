@@ -70,6 +70,7 @@ The legacy debate around Olympic costs (the overrun from £2.4bn to £8.77bn att
 - [The Hobbit: An Unexpected Journey](../arts-culture/the-hobbit-unexpected-journey.md) — a major arts-and-culture release of the same year, in December
 - [Pro Evolution Soccer 2013](../arts-culture/pro-evolution-soccer-2013.md) — a September 2012 release reflecting the same global football culture the Games showcased
 - [Gangnam Style Viral Phenomenon](../arts-culture/gangnam-style-viral-phenomenon.md) — the global pop sensation of the same summer, its dance appearing in athletes' celebrations during the Games
+- [Rio 2016 Olympic Bid Success](rio-2016-olympic-bid.md) — the next Summer Olympic host, whose four-year countdown began with the handover ceremony at the close of these Games
 
 ## Sources
 

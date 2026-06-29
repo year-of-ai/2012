@@ -85,6 +85,7 @@ The three films collectively grossed approximately **$2.93 billion** worldwide, 
 - [2012 United States Presidential Election](../history-politics/2012-us-presidential-election.md) — the major American political event of the same year
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — the economic context of austerity Europe in which blockbuster franchise cinema served as major entertainment
 - [Pro Evolution Soccer 2013](pro-evolution-soccer-2013.md) — another 2012 franchise entertainment release navigating legacy and new technology
+- [Peter Jackson — Filmmaker and The Hobbit Trilogy Creator](../people/peter-jackson-filmmaker.md) — the film's director, his Middle-earth career, and the New Zealand screen industry behind the production
 
 ## Sources
 

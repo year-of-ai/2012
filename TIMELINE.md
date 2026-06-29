@@ -10,6 +10,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 | Date | Item | Category | Link |
 |------|------|----------|------|
+| 2009-10-02 | Rio 2016 Olympic Bid Success | History & Politics | [link](history-politics/rio-2016-olympic-bid.md) |
 | 2012-02-12 | Adele's Album "21" — 2012 Dominance | Arts & Culture | [link](arts-culture/adeles-21-album.md) |
 | 2012-03-05 | KONY 2012 Campaign | Society & Economics | [link](society-economics/kony-2012-campaign.md) |
 | 2012-04-09 | Instagram Facebook Acquisition 2012 | Science & Technology | [link](science-technology/instagram-facebook-acquisition-2012.md) |
@@ -39,4 +40,6 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-11-06 | Mitt Romney 2012 Presidential Campaign | History & Politics | [link](history-politics/mitt-romney-2012-campaign.md) |
 | 2012-11-19 | Juan Manuel Santos — Colombian Peace Process | People | [link](people/juan-manuel-santos-peace-process.md) |
 | 2012-12-14 | The Hobbit: An Unexpected Journey | Arts & Culture | [link](arts-culture/the-hobbit-unexpected-journey.md) |
+| 2012-12-14 | Peter Jackson — Filmmaker and The Hobbit Trilogy Creator | People | [link](people/peter-jackson-filmmaker.md) |
+| 2012-12-19 | South Korea 2012 Presidential Election | History & Politics | [link](history-politics/south-korea-2012-presidential-election.md) |
 <!-- END GENERATED: timeline -->

@@ -19,6 +19,8 @@ Category index: [history-politics/index.md](history-politics/index.md)
 - [2012 London Summer Paralympics](history-politics/london-2012-paralympics.md)
 - [2012 United States Presidential Election](history-politics/2012-us-presidential-election.md)
 - [Mitt Romney 2012 Presidential Campaign](history-politics/mitt-romney-2012-campaign.md)
+- [Rio 2016 Olympic Bid Success](history-politics/rio-2016-olympic-bid.md)
+- [South Korea 2012 Presidential Election](history-politics/south-korea-2012-presidential-election.md)
 
 ## Science & Technology
 
@@ -61,4 +63,5 @@ Category index: [people/index.md](people/index.md)
 - [Barack Obama — 2012 Re-election Victory](people/barack-obama-2012-reelection.md)
 - [Juan Manuel Santos — Colombian Peace Process](people/juan-manuel-santos-peace-process.md)
 - [Malala Yousafzai October 2012 Shooting](people/malala-yousafzai-2012-shooting.md)
+- [Peter Jackson — Filmmaker and The Hobbit Trilogy Creator](people/peter-jackson-filmmaker.md)
 <!-- END GENERATED: master-index -->
