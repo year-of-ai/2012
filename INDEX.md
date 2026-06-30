@@ -21,6 +21,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 - [Mitt Romney 2012 Presidential Campaign](history-politics/mitt-romney-2012-campaign.md)
 - [Rio 2016 Olympic Bid Success](history-politics/rio-2016-olympic-bid.md)
 - [South Korea 2012 Presidential Election](history-politics/south-korea-2012-presidential-election.md)
+- [2012 US Fiscal Cliff and Congressional Negotiations](history-politics/us-fiscal-cliff-2012.md)
 
 ## Science & Technology
 
@@ -54,6 +55,7 @@ Category index: [society-economics/index.md](society-economics/index.md)
 - [KONY 2012 Campaign](society-economics/kony-2012-campaign.md)
 - [Hurricane Sandy — 2012 Atlantic Disaster](society-economics/hurricane-sandy-2012.md)
 - [Facebook Initial Public Offering 2012](society-economics/facebook-ipo-2012.md)
+- [Lance Armstrong USADA Investigation 2012](society-economics/lance-armstrong-usada-investigation-2012.md)
 
 ## People
 
@@ -64,4 +66,5 @@ Category index: [people/index.md](people/index.md)
 - [Juan Manuel Santos — Colombian Peace Process](people/juan-manuel-santos-peace-process.md)
 - [Malala Yousafzai October 2012 Shooting](people/malala-yousafzai-2012-shooting.md)
 - [Peter Jackson — Filmmaker and The Hobbit Trilogy Creator](people/peter-jackson-filmmaker.md)
+- [Marissa Mayer Becomes Yahoo CEO](people/marissa-mayer-yahoo-ceo-2012.md)
 <!-- END GENERATED: master-index -->

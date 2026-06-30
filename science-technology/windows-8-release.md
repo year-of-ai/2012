@@ -119,6 +119,7 @@ Despite its market failure, Windows 8 introduced several technical features that
 - [Curiosity Rover Mars Landing](curiosity-rover-mars-landing.md) — NASA's landmark 2012 achievement shared the year's technology spotlight with Windows 8
 - [Higgs Boson Discovery](higgs-boson-discovery.md) — another major 2012 technological milestone, though from a radically different domain
 - [2012 U.S. Presidential Election](../history-politics/2012-us-presidential-election.md) — the election highlighted mobile and social media's dominance, the exact market Windows 8 sought to compete in
+- [Marissa Mayer Becomes Yahoo CEO](../people/marissa-mayer-yahoo-ceo-2012.md) — another legacy technology company's 2012 struggle to adapt to the mobile-first computing landscape Windows 8 was reaching for
 
 ## Sources
 

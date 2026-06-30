@@ -90,6 +90,7 @@ The 2012 escalation was the moment when the eurozone's survival was genuinely in
 - [Instagram Facebook Acquisition 2012](../science-technology/instagram-facebook-acquisition-2012.md) — a billion-dollar technology deal that signaled the venture-capital exuberance running alongside Europe's downturn
 - [UEFA Euro 2012 Football Championship](../arts-culture/euro-2012-football-championship.md) — the summer tournament played across nations, including Greece, Portugal, and Ireland, hit hardest by the crisis
 - [Queen Elizabeth II Diamond Jubilee](../history-politics/queen-elizabeth-diamond-jubilee-2012.md) — Britain's summer of celebration against the backdrop of government austerity
+- [2012 US Fiscal Cliff and Congressional Negotiations](../history-politics/us-fiscal-cliff-2012.md) — the parallel debate over fiscal contraction in the United States, where Europe's austerity experience served as a cautionary example
 
 ## Sources
 

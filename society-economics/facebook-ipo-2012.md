@@ -79,3 +79,4 @@ Despite the disastrous IPO, Facebook recovered decisively once it demonstrated a
 - [Instagram–Facebook Acquisition (2012)](../science-technology/instagram-facebook-acquisition-2012.md) — the ~$1 billion purchase Facebook completed weeks before the IPO, later repriced by the stock's fall
 - [Occupy Wall Street — 2012 Momentum](occupy-wall-street-2012.md) — the movement whose critique of Wall Street framed public reaction to the IPO's retail-investor losses
 - [European Debt Crisis — 2012 Escalation](european-debt-crisis-2012.md) — the volatile macro backdrop against which the post-IPO sell-off unfolded
+- [Marissa Mayer Becomes Yahoo CEO](../people/marissa-mayer-yahoo-ceo-2012.md) — the same year's other defining moment for a legacy internet company, as Facebook's IPO accelerated the digital-advertising consolidation Yahoo struggled against

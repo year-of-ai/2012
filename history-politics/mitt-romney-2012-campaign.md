@@ -70,3 +70,4 @@ The 2012 campaign reinforced several structural shifts in American elections:
 - [2012 United States Presidential Election](2012-us-presidential-election.md) — the election this campaign contested, won by Obama on November 6
 - [Barack Obama — 2012 Re-election Victory](../people/barack-obama-2012-reelection.md) — the incumbent whose data operation and disaster response Romney's campaign was measured against
 - [Hurricane Sandy — 2012 Atlantic Disaster](../society-economics/hurricane-sandy-2012.md) — the late-October storm that halted campaigning days before the vote
+- [2012 US Fiscal Cliff and Congressional Negotiations](us-fiscal-cliff-2012.md) — the year-end budget fight that followed Romney's defeat, leaving Obama with a stronger hand over tax policy

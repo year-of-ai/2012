@@ -25,6 +25,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-07-04 | Higgs Boson Discovery | Science & Technology | [link](science-technology/higgs-boson-discovery.md) |
 | 2012-07-15 | Syrian Civil War — 2012 Escalation | History & Politics | [link](history-politics/syrian-civil-war-escalation-2012.md) |
 | 2012-07-15 | Gangnam Style Viral Phenomenon | Arts & Culture | [link](arts-culture/gangnam-style-viral-phenomenon.md) |
+| 2012-07-16 | Marissa Mayer Becomes Yahoo CEO | People | [link](people/marissa-mayer-yahoo-ceo-2012.md) |
 | 2012-07-27 | 2012 London Summer Olympics | History & Politics | [link](history-politics/london-2012-olympics.md) |
 | 2012-07-27 | London 2012 Olympics Opening Ceremony | History & Politics | [link](history-politics/london-2012-opening-ceremony.md) |
 | 2012-08-06 | Curiosity Rover Mars Landing | Science & Technology | [link](science-technology/curiosity-rover-mars-landing.md) |
@@ -33,6 +34,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-09-21 | Pro Evolution Soccer 2013 | Arts & Culture | [link](arts-culture/pro-evolution-soccer-2013.md) |
 | 2012-09-21 | Apple iPhone 5 Launch | Science & Technology | [link](science-technology/apple-iphone-5-launch.md) |
 | 2012-10-09 | Malala Yousafzai October 2012 Shooting | People | [link](people/malala-yousafzai-2012-shooting.md) |
+| 2012-10-10 | Lance Armstrong USADA Investigation 2012 | Society & Economics | [link](society-economics/lance-armstrong-usada-investigation-2012.md) |
 | 2012-10-26 | Windows 8 Release | Science & Technology | [link](science-technology/windows-8-release.md) |
 | 2012-10-29 | Hurricane Sandy — 2012 Atlantic Disaster | Society & Economics | [link](society-economics/hurricane-sandy-2012.md) |
 | 2012-11-06 | 2012 United States Presidential Election | History & Politics | [link](history-politics/2012-us-presidential-election.md) |
@@ -42,4 +44,5 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-12-14 | The Hobbit: An Unexpected Journey | Arts & Culture | [link](arts-culture/the-hobbit-unexpected-journey.md) |
 | 2012-12-14 | Peter Jackson — Filmmaker and The Hobbit Trilogy Creator | People | [link](people/peter-jackson-filmmaker.md) |
 | 2012-12-19 | South Korea 2012 Presidential Election | History & Politics | [link](history-politics/south-korea-2012-presidential-election.md) |
+| 2012-12-31 | 2012 US Fiscal Cliff and Congressional Negotiations | History & Politics | [link](history-politics/us-fiscal-cliff-2012.md) |
 <!-- END GENERATED: timeline -->

@@ -71,6 +71,7 @@ From a historical perspective, Obama became the third consecutive sitting presid
 - [KONY 2012 Campaign](../society-economics/kony-2012-campaign.md) — a contemporaneous demonstration of social media's power and limits in political mobilization
 - [Mitt Romney 2012 Presidential Campaign](mitt-romney-2012-campaign.md) — the losing Republican campaign, its primary fight, the "47 percent" video, and the ORCA Election-Day failure
 - [South Korea 2012 Presidential Election](south-korea-2012-presidential-election.md) — the other major democratic contest of late 2012, decided weeks later on December 19
+- [2012 US Fiscal Cliff and Congressional Negotiations](us-fiscal-cliff-2012.md) — the year-end budget confrontation the election's outcome immediately shaped, Obama's win read as a mandate for higher taxes on top earners
 
 ## Sources
 

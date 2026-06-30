@@ -67,6 +67,7 @@ For the broader technology industry, Instagram's $1 billion exit for a company w
 
 - [Windows 8 Release](windows-8-release.md) — the contemporaneous platform shift toward the mobile-first, touch-centric computing landscape Instagram exemplified
 - [Apple iPhone 5 Launch](apple-iphone-5-launch.md) — the September 2012 LTE flagship whose mobile-data growth accelerated photo-sharing apps like Instagram
+- [Marissa Mayer Becomes Yahoo CEO](../people/marissa-mayer-yahoo-ceo-2012.md) — contemporary strategic acquisition-driven growth strategy adopted by legacy tech companies struggling against mobile-first competition
 - [Gangnam Style Viral Phenomenon](../arts-culture/gangnam-style-viral-phenomenon.md) — the year's defining viral moment, propagated across the same consolidating mobile-social platforms
 - [KONY 2012 Campaign](../society-economics/kony-2012-campaign.md) — the viral social-media phenomenon that unfolded on the platforms being consolidated under Facebook
 - [Occupy Wall Street 2012](../society-economics/occupy-wall-street-2012.md) — social media platforms including Instagram played a significant role in the movement's continued visibility into 2012
