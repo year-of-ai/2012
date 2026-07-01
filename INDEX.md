@@ -22,6 +22,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 - [Rio 2016 Olympic Bid Success](history-politics/rio-2016-olympic-bid.md)
 - [South Korea 2012 Presidential Election](history-politics/south-korea-2012-presidential-election.md)
 - [2012 US Fiscal Cliff and Congressional Negotiations](history-politics/us-fiscal-cliff-2012.md)
+- [Usain Bolt's 100m Olympic Gold and World Record](history-politics/usain-bolt-100m-olympic-gold-2012.md)
 
 ## Science & Technology
 
@@ -56,6 +57,7 @@ Category index: [society-economics/index.md](society-economics/index.md)
 - [Hurricane Sandy — 2012 Atlantic Disaster](society-economics/hurricane-sandy-2012.md)
 - [Facebook Initial Public Offering 2012](society-economics/facebook-ipo-2012.md)
 - [Lance Armstrong USADA Investigation 2012](society-economics/lance-armstrong-usada-investigation-2012.md)
+- [Tebowing Cultural Phenomenon](society-economics/tebowing-phenomenon-2012.md)
 
 ## People
 

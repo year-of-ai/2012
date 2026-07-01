@@ -44,6 +44,8 @@ a time, by the [hub orchestrator](https://year-of-ai.github.io/orchestration/).
 | [2012 US Fiscal Cliff and Congressional Negotiations](history-politics/us-fiscal-cliff-2012.md) | Tax increases and spending cuts scheduled for January 1, 2013; $607 billion fiscal contraction; December 2012 negotiations; American Taxpayer Relief Act resolution affirms electoral mandate for tax increases on wealthy earners. |
 | [Lance Armstrong USADA Investigation 2012](society-economics/lance-armstrong-usada-investigation-2012.md) | October 10 USADA report; 1,000-page investigation documenting systematic doping; stripped of seven Tour de France titles; transforms cycling and sports governance discourse. |
 | [Marissa Mayer Becomes Yahoo CEO](people/marissa-mayer-yahoo-ceo-2012.md) | July 16 appointment; first female CEO from outside Yahoo; high-profile shift in women's representation in tech leadership; signals strategy to revitalize struggling internet giant through acquisition and innovation. |
+| [Tebowing Cultural Phenomenon](society-economics/tebowing-phenomenon-2012.md) | Photo meme originating from Tim Tebow's on-field prayer pose; coined October 2011 and cresting with his January 8, 2012 playoff win; 25,000+ media citations; sparked global participation and cultural debate over religious expression in secular public spaces. |
+| [Usain Bolt's 100m Olympic Gold and World Record](history-politics/usain-bolt-100m-olympic-gold-2012.md) | August 5 Olympic final at London; Bolt runs 9.63 seconds Olympic record defending 2008 Beijing title; unprecedented sub-9.80 sweep of top three finishers; redemption narrative and cemented status as world's preeminent sprinter. |
 
 Browse the full [master index](INDEX.md) or the chronological [timeline](TIMELINE.md) of 2012.
 

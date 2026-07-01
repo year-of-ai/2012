@@ -60,6 +60,7 @@ The song's success also proved a commercial and cultural proof-of-concept for th
 - [Apple iPhone 5 Launch](../science-technology/apple-iphone-5-launch.md) — the September 2012 LTE flagship typifying the mobile-video shift that carried the phenomenon
 - [Windows 8 Release](../science-technology/windows-8-release.md) — another 2012 platform event in the year's broader digital-platform story
 - [The Avengers (2012 Film)](the-avengers-2012-film.md) — the year's other globe-spanning popular-entertainment juggernaut
+- [Tebowing Cultural Phenomenon](../society-economics/tebowing-phenomenon-2012.md) — a contemporaneous participatory pose meme spread, like the horse dance, by low-barrier bodily imitation across social platforms
 
 ## Sources
 
