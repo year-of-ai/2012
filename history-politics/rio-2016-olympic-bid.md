@@ -53,6 +53,7 @@ A particularly damaging postscript involved the bid itself: in 2017, Carlos Arth
 ## See Also
 
 - [2012 London Summer Olympics](london-2012-olympics.md) — the immediately preceding Summer Games, whose August 2012 handover ceremony officially began the countdown to Rio 2016
+- [2012 Summer Olympics Closing Ceremony](london-2012-closing-ceremony.md) — the August 12 handover spectacle in which Rio was formally presented to the world
 - [2012 London Summer Paralympics](london-2012-paralympics.md) — the Paralympic Games staged at the same London venues in September 2012, part of the same four-year Paralympic cycle toward Rio
 - [Queen Elizabeth II Diamond Jubilee](queen-elizabeth-diamond-jubilee-2012.md) — the other major British national occasion of 2012, sharing the same summer of British global prestige
 - [Syrian Civil War — 2012 Escalation](syrian-civil-war-escalation-2012.md) — the geopolitical crisis unfolding in the same period, contrasting with the idealism of Olympic host selections

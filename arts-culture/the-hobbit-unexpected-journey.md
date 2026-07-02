@@ -81,7 +81,9 @@ The three films collectively grossed approximately **$2.93 billion** worldwide, 
 
 - [Adele's Album "21" — 2012 Dominance](adeles-21-album.md) — the other landmark arts-and-culture event of 2012
 - [The Avengers (2012 Film)](the-avengers-2012-film.md) — 2012's highest-grossing film, the other billion-dollar franchise blockbuster of the year
+- [The Dark Knight Rises (2012 Film)](the-dark-knight-rises.md) — Christopher Nolan's Batman trilogy conclusion, another of the top four 2012 films
 - [2012 London Summer Olympics](../history-politics/london-2012-olympics.md) — Danny Boyle's opening ceremony was another massive piece of British cultural production in 2012
+- [London 2012 Olympics Closing Ceremony](../history-politics/london-2012-closing-ceremony.md) — the Games' farewell spectacle and Rio handover, August 2012
 - [2012 United States Presidential Election](../history-politics/2012-us-presidential-election.md) — the major American political event of the same year
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — the economic context of austerity Europe in which blockbuster franchise cinema served as major entertainment
 - [Pro Evolution Soccer 2013](pro-evolution-soccer-2013.md) — another 2012 franchise entertainment release navigating legacy and new technology

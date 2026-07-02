@@ -60,9 +60,12 @@ The cauldron's design — petals that opened and rose rather than a single basin
 ## See Also
 
 - [London 2012 Olympics](london-2012-olympics.md) — the parent Games, their political context, and legacy
+- [2012 Summer Olympics Closing Ceremony](london-2012-closing-ceremony.md) — the Games' farewell spectacle and Rio handover on August 12, directed by Kim Gavin
 - [London 2012 Paralympics](london-2012-paralympics.md) — the Paralympic Games that followed in August–September 2012
-- [Queen Elizabeth Diamond Jubilee 2012](queen-elizabeth-diamond-jubilee-2012.md) — Queen Elizabeth II's Jubilee celebrations earlier the same summer
+- [Queen Elizabeth Diamond Jubilee 2012](queen-elizabeth-diamond-jubilee-2012.md) — Queen Elizabeth II's Jubilee celebrations earlier the same summer, part of the same summer of British national occasion
 - [Euro 2012 Football Championship](../arts-culture/euro-2012-football-championship.md) — major concurrent sporting event in the UK's summer of 2012
+- [The Dark Knight Rises (2012 Film)](../arts-culture/the-dark-knight-rises.md) — released July 20, 2012, the same week the ceremony aired globally; both were landmark British-adjacent cultural productions of that summer
+- [Gangnam Style Viral Phenomenon](../arts-culture/gangnam-style-viral-phenomenon.md) — the global pop phenomenon of the same summer, with the horse dance appearing in Olympic athletes' celebrations during the Games
 
 ## Sources
 

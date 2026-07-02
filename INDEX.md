@@ -17,6 +17,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 - [2012 London Summer Olympics](history-politics/london-2012-olympics.md)
 - [London 2012 Olympics Opening Ceremony](history-politics/london-2012-opening-ceremony.md)
 - [2012 London Summer Paralympics](history-politics/london-2012-paralympics.md)
+- [2012 Summer Olympics Closing Ceremony](history-politics/london-2012-closing-ceremony.md)
 - [2012 United States Presidential Election](history-politics/2012-us-presidential-election.md)
 - [Mitt Romney 2012 Presidential Campaign](history-politics/mitt-romney-2012-campaign.md)
 - [Rio 2016 Olympic Bid Success](history-politics/rio-2016-olympic-bid.md)
@@ -46,6 +47,7 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 - [The Avengers (2012 Film)](arts-culture/the-avengers-2012-film.md)
 - [UEFA Euro 2012 Football Championship](arts-culture/euro-2012-football-championship.md)
 - [Gangnam Style Viral Phenomenon](arts-culture/gangnam-style-viral-phenomenon.md)
+- [The Dark Knight Rises (2012 Film)](arts-culture/the-dark-knight-rises.md)
 
 ## Society & Economics
 

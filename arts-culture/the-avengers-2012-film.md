@@ -49,10 +49,12 @@ In 2017, *Empire* magazine ranked it among the 100 greatest films of all time. T
 
 ## See Also
 
-- [The Hobbit: An Unexpected Journey](the-hobbit-unexpected-journey.md) — the year's other billion-dollar franchise film, opening in December
+- [The Dark Knight Rises (2012 Film)](the-dark-knight-rises.md) — Christopher Nolan's Batman trilogy conclusion, the other major superhero blockbuster of the same summer, which grossed $1.085 billion worldwide
+- [The Hobbit: An Unexpected Journey](the-hobbit-unexpected-journey.md) — the year's other billion-dollar franchise film, opening in December; 2012 was the first year in cinema history in which four films crossed the $1 billion threshold
 - [Adele's Album "21" — 2012 Dominance](adeles-21-album.md) — the dominant music story of the same year
+- [London 2012 Olympics](../history-politics/london-2012-olympics.md) — the global spectacle running July 27–August 12, 2012; The Avengers' summer box-office run overlapped with the Games' opening weeks
+- [Gangnam Style Viral Phenomenon](gangnam-style-viral-phenomenon.md) — the year's other globe-spanning popular-entertainment juggernaut, built on digital virality rather than studio marketing
 - [Pro Evolution Soccer 2013](pro-evolution-soccer-2013.md) — another 2012 entry in a major entertainment franchise
-- [Gangnam Style Viral Phenomenon](gangnam-style-viral-phenomenon.md) — the year's other globe-spanning popular-entertainment juggernaut, built on digital virality
 
 ## Sources
 

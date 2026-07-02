@@ -38,11 +38,22 @@ The primary hub for the Games was the **Queen Elizabeth Olympic Park** in Stratf
 
 - **Olympic Stadium**: 80,000-capacity main arena; hosted athletics and the opening and closing ceremonies
 - **Aquatics Centre**: Designed by Zaha Hadid with flowing wave-like roof; hosted swimming and diving
-- **Velodrome**: Engineered for aerodynamic precision; British cyclists won 8 of 10 available gold medals in track cycling within it
+- **Velodrome**: Engineered for aerodynamic precision; became the site of British cycling's most dominant Olympic performance in history
 - **ExCeL London**: Converted exhibition centre hosting combat and shooting sports
 - **Wembley Stadium** and **Old Trafford**: Football venues used across the UK
 
 Athletes' Village accommodated approximately **17,000** people and was designed for post-Games conversion into residential housing.
+
+### British Cycling at the Velodrome
+
+The Lee Valley VeloPark — informally dubbed the "Velodrome" and later nicknamed the **"Pringle"** for its distinctive saddle-shaped roof — became the focal point of Great Britain's most statistically dominant sports performance at London 2012. British cyclists won **7 gold medals out of a possible 10** in track cycling events, setting or equalling multiple world records across the competition. Key performers included:
+
+- **Chris Hoy**: Won gold in both the keirin and team sprint, bringing his Olympic career total to **6 gold medals** (across Beijing 2008 and London 2012), the most of any British Olympian in history
+- **Victoria Pendleton**: Won gold in the keirin and silver in the sprint, her final Olympic competition before retiring
+- **Laura Trott** (later Kenny): Won gold in the team pursuit and omnium at age 20, beginning an Olympic career that would run through the Tokyo 2020 Games and make her, with five golds, Britain's most decorated female Olympian
+- **Jason Kenny**: Won gold in the sprint and team sprint, eventually becoming Britain's most decorated Olympic athlete
+
+The British Cycling team had been built over a decade under the **"marginal gains" coaching philosophy** developed by performance director **Dave Brailsford**, which emphasised incremental improvements across every aspect of performance — from aerodynamics of equipment to sleep quality during competition. The 2012 Velodrome results were the public culmination of a programme that had also produced multiple Tour de France victories (Bradley Wiggins won in July 2012, becoming the first Briton to do so).
 
 ## Legacy and Urban Regeneration
 
@@ -59,6 +70,7 @@ The legacy debate around Olympic costs (the overrun from £2.4bn to £8.77bn att
 ## See Also
 
 - [London 2012 Olympics Opening Ceremony](london-2012-opening-ceremony.md) — Danny Boyle's "Isles of Wonder" spectacle that opened these Games on July 27
+- [2012 Summer Olympics Closing Ceremony](london-2012-closing-ceremony.md) — the farewell spectacle and Rio handover on August 12
 - [2012 London Summer Paralympics](london-2012-paralympics.md) — the Paralympic Games staged in the same venues immediately afterward, August 29–September 9
 - [Queen Elizabeth II Diamond Jubilee](queen-elizabeth-diamond-jubilee-2012.md) — the Queen's 60-year milestone, celebrated in June 2012 as part of the same summer of British national occasion
 - [UEFA Euro 2012 Football Championship](../arts-culture/euro-2012-football-championship.md) — the European football tournament that closed on July 1, weeks before the Games opened
