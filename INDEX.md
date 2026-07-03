@@ -36,6 +36,7 @@ Category index: [science-technology/index.md](science-technology/index.md)
 - [Apple iPhone 5 Launch](science-technology/apple-iphone-5-launch.md)
 - [2012 Arctic Sea Ice Minimum](science-technology/arctic-sea-ice-minimum-2012.md)
 - [Venus Transit of June 2012](science-technology/venus-transit-june-2012.md)
+- [Felix Baumgartner Red Bull Stratos (October 2012)](science-technology/red-bull-stratos-2012.md)
 
 ## Arts & Culture
 
@@ -48,6 +49,7 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 - [UEFA Euro 2012 Football Championship](arts-culture/euro-2012-football-championship.md)
 - [Gangnam Style Viral Phenomenon](arts-culture/gangnam-style-viral-phenomenon.md)
 - [The Dark Knight Rises (2012 Film)](arts-culture/the-dark-knight-rises.md)
+- [Skyfall (2012 Film)](arts-culture/skyfall-2012-film.md)
 
 ## Society & Economics
 
@@ -60,6 +62,7 @@ Category index: [society-economics/index.md](society-economics/index.md)
 - [Facebook Initial Public Offering 2012](society-economics/facebook-ipo-2012.md)
 - [Lance Armstrong USADA Investigation 2012](society-economics/lance-armstrong-usada-investigation-2012.md)
 - [Tebowing Cultural Phenomenon](society-economics/tebowing-phenomenon-2012.md)
+- [Kodak Bankruptcy (January 2012)](society-economics/kodak-bankruptcy-2012.md)
 
 ## People
 

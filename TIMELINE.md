@@ -12,6 +12,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 |------|------|----------|------|
 | 2009-10-02 | Rio 2016 Olympic Bid Success | History & Politics | [link](history-politics/rio-2016-olympic-bid.md) |
 | 2012-01-08 | Tebowing Cultural Phenomenon | Society & Economics | [link](society-economics/tebowing-phenomenon-2012.md) |
+| 2012-01-19 | Kodak Bankruptcy (January 2012) | Society & Economics | [link](society-economics/kodak-bankruptcy-2012.md) |
 | 2012-02-12 | Adele's Album "21" — 2012 Dominance | Arts & Culture | [link](arts-culture/adeles-21-album.md) |
 | 2012-03-05 | KONY 2012 Campaign | Society & Economics | [link](society-economics/kony-2012-campaign.md) |
 | 2012-04-09 | Instagram Facebook Acquisition 2012 | Science & Technology | [link](science-technology/instagram-facebook-acquisition-2012.md) |
@@ -39,6 +40,8 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-09-21 | Apple iPhone 5 Launch | Science & Technology | [link](science-technology/apple-iphone-5-launch.md) |
 | 2012-10-09 | Malala Yousafzai October 2012 Shooting | People | [link](people/malala-yousafzai-2012-shooting.md) |
 | 2012-10-10 | Lance Armstrong USADA Investigation 2012 | Society & Economics | [link](society-economics/lance-armstrong-usada-investigation-2012.md) |
+| 2012-10-14 | Felix Baumgartner Red Bull Stratos (October 2012) | Science & Technology | [link](science-technology/red-bull-stratos-2012.md) |
+| 2012-10-23 | Skyfall (2012 Film) | Arts & Culture | [link](arts-culture/skyfall-2012-film.md) |
 | 2012-10-26 | Windows 8 Release | Science & Technology | [link](science-technology/windows-8-release.md) |
 | 2012-10-29 | Hurricane Sandy — 2012 Atlantic Disaster | Society & Economics | [link](society-economics/hurricane-sandy-2012.md) |
 | 2012-11-06 | 2012 United States Presidential Election | History & Politics | [link](history-politics/2012-us-presidential-election.md) |

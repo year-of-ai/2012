@@ -74,6 +74,7 @@ For the broader technology industry, Instagram's $1 billion exit for a company w
 - [2012 U.S. Presidential Election](../history-politics/2012-us-presidential-election.md) — Facebook's IPO and Instagram acquisition occurred during the same year as the election in which social media played an unprecedented campaign role
 - [European Debt Crisis 2012](../society-economics/european-debt-crisis-2012.md) — economic context for the venture capital environment that produced Instagram's valuation
 - [Facebook Initial Public Offering 2012](../society-economics/facebook-ipo-2012.md) — Facebook's May IPO, whose post-offering stock decline lowered the value of the stock-and-cash deal that bought Instagram
+- [Kodak Bankruptcy (January 2012)](../society-economics/kodak-bankruptcy-2012.md) — the century-old photography giant whose January 2012 collapse contrasted starkly with the 13-person Instagram's ~$1 billion valuation months later
 
 ## Sources
 

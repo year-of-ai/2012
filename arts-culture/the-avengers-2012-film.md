@@ -55,6 +55,7 @@ In 2017, *Empire* magazine ranked it among the 100 greatest films of all time. T
 - [London 2012 Olympics](../history-politics/london-2012-olympics.md) — the global spectacle running July 27–August 12, 2012; The Avengers' summer box-office run overlapped with the Games' opening weeks
 - [Gangnam Style Viral Phenomenon](gangnam-style-viral-phenomenon.md) — the year's other globe-spanning popular-entertainment juggernaut, built on digital virality rather than studio marketing
 - [Pro Evolution Soccer 2013](pro-evolution-soccer-2013.md) — another 2012 entry in a major entertainment franchise
+- [Skyfall (2012 Film)](skyfall-2012-film.md) — the year's second-highest-grossing film, behind *The Avengers*, in a 2012 box office topped by franchise tentpoles
 
 ## Sources
 

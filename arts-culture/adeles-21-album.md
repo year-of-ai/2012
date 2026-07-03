@@ -63,6 +63,7 @@ The Grammy broadcast reached an estimated **39.9 million viewers** in the United
 - [The Avengers (2012 Film)](the-avengers-2012-film.md) — the year's highest-grossing film, the May blockbuster counterpart to *21*'s musical dominance
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — the economic backdrop of austerity Britain that shaped public cultural consumption in 2012
 - [Pro Evolution Soccer 2013](pro-evolution-soccer-2013.md) — a 2012 entertainment release whose critical resurgence paralleled *21*'s sustained commercial dominance
+- [Skyfall (2012 Film)](skyfall-2012-film.md) — Adele's Oscar-winning theme song extended her 2011–2012 dominance into the year's highest-grossing Bond film
 
 ## Sources
 
