@@ -62,6 +62,8 @@ The 2012 escalation marked the irreversible transformation of the Syrian uprisin
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md) — a concurrent crisis that shaped Western governments' attention and resources during this period
 - [Higgs Boson Discovery](../science-technology/higgs-boson-discovery.md) — a landmark scientific event of the same year
 - [KONY 2012 Campaign](../society-economics/kony-2012-campaign.md) — another 2012 humanitarian cause in which social-media documentation met international advocacy debates
+- [Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood](../people/mohamed-morsi-2012-presidency.md) — the Egyptian president who, at the August 2012 Non-Aligned Movement summit in Tehran, openly called for Assad to step down
+- [Julian Assange's Ecuador Asylum (August 2012)](julian-assange-ecuador-asylum-2012.md) — a concurrent 2012 clash between state power and transparency advocates that unfolded against the same UN Security Council deadlock
 
 ## Sources
 

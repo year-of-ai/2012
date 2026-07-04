@@ -24,6 +24,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 - [South Korea 2012 Presidential Election](history-politics/south-korea-2012-presidential-election.md)
 - [2012 US Fiscal Cliff and Congressional Negotiations](history-politics/us-fiscal-cliff-2012.md)
 - [Usain Bolt's 100m Olympic Gold and World Record](history-politics/usain-bolt-100m-olympic-gold-2012.md)
+- [Julian Assange's Ecuador Asylum (August 2012)](history-politics/julian-assange-ecuador-asylum-2012.md)
 
 ## Science & Technology
 
@@ -74,4 +75,5 @@ Category index: [people/index.md](people/index.md)
 - [Malala Yousafzai October 2012 Shooting](people/malala-yousafzai-2012-shooting.md)
 - [Peter Jackson — Filmmaker and The Hobbit Trilogy Creator](people/peter-jackson-filmmaker.md)
 - [Marissa Mayer Becomes Yahoo CEO](people/marissa-mayer-yahoo-ceo-2012.md)
+- [Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood](people/mohamed-morsi-2012-presidency.md)
 <!-- END GENERATED: master-index -->

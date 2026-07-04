@@ -65,6 +65,7 @@ The 2012 election validated statistical forecasting models as superior predictor
 - [Hurricane Sandy — 2012 Atlantic Disaster](../society-economics/hurricane-sandy-2012.md) — the late-October storm whose response burnished Obama's image of competent leadership before the vote
 - [Mitt Romney 2012 Presidential Campaign](../history-politics/mitt-romney-2012-campaign.md) — the opposing campaign Obama defeated, including its data operation and the "47 percent" controversy
 - [2012 US Fiscal Cliff and Congressional Negotiations](../history-politics/us-fiscal-cliff-2012.md) — the budget showdown that immediately followed the vote, in which Obama pressed the tax-fairness position he had campaigned on
+- [Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood](mohamed-morsi-2012-presidency.md) — the Egyptian president whose November 2012 mediation of a Gaza ceasefire the Obama administration publicly credited
 
 ## Sources
 

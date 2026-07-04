@@ -23,6 +23,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-06-01 | European Debt Crisis — 2012 Escalation | Society & Economics | [link](society-economics/european-debt-crisis-2012.md) |
 | 2012-06-05 | Queen Elizabeth II Diamond Jubilee | History & Politics | [link](history-politics/queen-elizabeth-diamond-jubilee-2012.md) |
 | 2012-06-06 | Venus Transit of June 2012 | Science & Technology | [link](science-technology/venus-transit-june-2012.md) |
+| 2012-06-30 | Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood | People | [link](people/mohamed-morsi-2012-presidency.md) |
 | 2012-07-01 | UEFA Euro 2012 Football Championship | Arts & Culture | [link](arts-culture/euro-2012-football-championship.md) |
 | 2012-07-04 | Higgs Boson Discovery | Science & Technology | [link](science-technology/higgs-boson-discovery.md) |
 | 2012-07-15 | Syrian Civil War — 2012 Escalation | History & Politics | [link](history-politics/syrian-civil-war-escalation-2012.md) |
@@ -34,6 +35,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-08-05 | Usain Bolt's 100m Olympic Gold and World Record | History & Politics | [link](history-politics/usain-bolt-100m-olympic-gold-2012.md) |
 | 2012-08-06 | Curiosity Rover Mars Landing | Science & Technology | [link](science-technology/curiosity-rover-mars-landing.md) |
 | 2012-08-12 | 2012 Summer Olympics Closing Ceremony | History & Politics | [link](history-politics/london-2012-closing-ceremony.md) |
+| 2012-08-19 | Julian Assange's Ecuador Asylum (August 2012) | History & Politics | [link](history-politics/julian-assange-ecuador-asylum-2012.md) |
 | 2012-08-29 | 2012 London Summer Paralympics | History & Politics | [link](history-politics/london-2012-paralympics.md) |
 | 2012-09-16 | 2012 Arctic Sea Ice Minimum | Science & Technology | [link](science-technology/arctic-sea-ice-minimum-2012.md) |
 | 2012-09-21 | Pro Evolution Soccer 2013 | Arts & Culture | [link](arts-culture/pro-evolution-soccer-2013.md) |
