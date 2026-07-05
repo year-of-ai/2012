@@ -84,6 +84,8 @@ The legacy debate around Olympic costs (the overrun from £2.4bn to £8.77bn att
 - [Gangnam Style Viral Phenomenon](../arts-culture/gangnam-style-viral-phenomenon.md) — the global pop sensation of the same summer, its dance appearing in athletes' celebrations during the Games
 - [Rio 2016 Olympic Bid Success](rio-2016-olympic-bid.md) — the next Summer Olympic host, whose four-year countdown began with the handover ceremony at the close of these Games
 - [Usain Bolt's 100m Olympic Gold and World Record](usain-bolt-100m-olympic-gold-2012.md) — the signature athletics moment of these Games: his 9.63 defense of the 100 m title on August 5, in the deepest sprint final in history
+- [Michael Phelps's 2012 Olympic Swimming Performance](michael-phelps-2012-olympics.md) — the record-breaking swimming campaign that made Phelps the most decorated Olympian in history
+- [2012 Summer Olympics Men's Basketball](2012-olympics-mens-basketball.md) — the U.S. men's team's undefeated run to gold, culminating August 12
 - [Lance Armstrong USADA Investigation 2012](../society-economics/lance-armstrong-usada-investigation-2012.md) — the year's defining anti-doping reckoning, unfolding as elite sport's integrity drew global scrutiny around these Games
 
 ## Sources

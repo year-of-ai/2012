@@ -106,3 +106,4 @@ The Egyptian uprising of 2011 had been one of the defining events of the Arab Sp
 - [Julian Assange's Ecuador Asylum (August 2012)](../history-politics/julian-assange-ecuador-asylum-2012.md)
 - [2012 United States Presidential Election](../history-politics/2012-us-presidential-election.md)
 - [European Debt Crisis — 2012 Escalation](../society-economics/european-debt-crisis-2012.md)
+- [Kim Jong-un's 2012 Leadership Consolidation in North Korea](kim-jong-un-2012-succession.md) — another of the year's consequential leadership transitions

@@ -77,6 +77,7 @@ The closeness of the result — 51.55% versus 48.02% — reflected a deeply pola
 - [Barack Obama — 2012 Re-election Victory](../people/barack-obama-2012-reelection.md) — another 2012 electoral victory shaped by demographic coalition politics and historical significance
 - [Vladimir Putin — 2012 Return to Presidency](../people/vladimir-putin-2012-presidency.md) — the major leadership transition in Northeast Asia's neighboring great power, with direct implications for Korean security
 - [Malala Yousafzai — 2012 Shooting](../people/malala-yousafzai-2012-shooting.md) — another 2012 story foregrounding women's prominent roles in global politics under extraordinary circumstances
+- [Kim Jong-un's 2012 Leadership Consolidation in North Korea](../people/kim-jong-un-2012-succession.md) — the concurrent, hereditary leadership transition across the DMZ, a sharp contrast to the South's democratic contest
 
 ## Sources
 

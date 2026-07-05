@@ -25,6 +25,8 @@ Category index: [history-politics/index.md](history-politics/index.md)
 - [2012 US Fiscal Cliff and Congressional Negotiations](history-politics/us-fiscal-cliff-2012.md)
 - [Usain Bolt's 100m Olympic Gold and World Record](history-politics/usain-bolt-100m-olympic-gold-2012.md)
 - [Julian Assange's Ecuador Asylum (August 2012)](history-politics/julian-assange-ecuador-asylum-2012.md)
+- [Michael Phelps's 2012 Olympic Swimming Performance](history-politics/michael-phelps-2012-olympics.md)
+- [2012 Summer Olympics Men's Basketball](history-politics/2012-olympics-mens-basketball.md)
 
 ## Science & Technology
 
@@ -76,4 +78,5 @@ Category index: [people/index.md](people/index.md)
 - [Peter Jackson — Filmmaker and The Hobbit Trilogy Creator](people/peter-jackson-filmmaker.md)
 - [Marissa Mayer Becomes Yahoo CEO](people/marissa-mayer-yahoo-ceo-2012.md)
 - [Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood](people/mohamed-morsi-2012-presidency.md)
+- [Kim Jong-un's 2012 Leadership Consolidation in North Korea](people/kim-jong-un-2012-succession.md)
 <!-- END GENERATED: master-index -->

@@ -69,6 +69,8 @@ The 2012 100-metre result stands as a snapshot of track and field's golden era f
 - [London 2012 Olympics](london-2012-olympics.md)
 - [London 2012 Opening Ceremony](london-2012-opening-ceremony.md)
 - [London 2012 Paralympics](london-2012-paralympics.md)
+- [Michael Phelps's 2012 Olympic Swimming Performance](michael-phelps-2012-olympics.md) — the pool counterpart to Bolt's dominance on the track at the same Games
+- [2012 Summer Olympics Men's Basketball](2012-olympics-mens-basketball.md) — the U.S. men's team's undefeated gold-medal run at the same Games
 - [Lance Armstrong USADA Investigation 2012](../society-economics/lance-armstrong-usada-investigation-2012.md) — contrasting narrative of doping revelations in elite sport
 
 ## Sources

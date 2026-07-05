@@ -16,6 +16,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-02-12 | Adele's Album "21" — 2012 Dominance | Arts & Culture | [link](arts-culture/adeles-21-album.md) |
 | 2012-03-05 | KONY 2012 Campaign | Society & Economics | [link](society-economics/kony-2012-campaign.md) |
 | 2012-04-09 | Instagram Facebook Acquisition 2012 | Science & Technology | [link](science-technology/instagram-facebook-acquisition-2012.md) |
+| 2012-04-15 | Kim Jong-un's 2012 Leadership Consolidation in North Korea | People | [link](people/kim-jong-un-2012-succession.md) |
 | 2012-05-01 | Occupy Wall Street — 2012 Momentum | Society & Economics | [link](society-economics/occupy-wall-street-2012.md) |
 | 2012-05-04 | The Avengers (2012 Film) | Arts & Culture | [link](arts-culture/the-avengers-2012-film.md) |
 | 2012-05-07 | Vladimir Putin — 2012 Return to Presidency | People | [link](people/vladimir-putin-2012-presidency.md) |
@@ -32,9 +33,11 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-07-20 | The Dark Knight Rises (2012 Film) | Arts & Culture | [link](arts-culture/the-dark-knight-rises.md) |
 | 2012-07-27 | 2012 London Summer Olympics | History & Politics | [link](history-politics/london-2012-olympics.md) |
 | 2012-07-27 | London 2012 Olympics Opening Ceremony | History & Politics | [link](history-politics/london-2012-opening-ceremony.md) |
+| 2012-07-28 | Michael Phelps's 2012 Olympic Swimming Performance | History & Politics | [link](history-politics/michael-phelps-2012-olympics.md) |
 | 2012-08-05 | Usain Bolt's 100m Olympic Gold and World Record | History & Politics | [link](history-politics/usain-bolt-100m-olympic-gold-2012.md) |
 | 2012-08-06 | Curiosity Rover Mars Landing | Science & Technology | [link](science-technology/curiosity-rover-mars-landing.md) |
 | 2012-08-12 | 2012 Summer Olympics Closing Ceremony | History & Politics | [link](history-politics/london-2012-closing-ceremony.md) |
+| 2012-08-12 | 2012 Summer Olympics Men's Basketball | History & Politics | [link](history-politics/2012-olympics-mens-basketball.md) |
 | 2012-08-19 | Julian Assange's Ecuador Asylum (August 2012) | History & Politics | [link](history-politics/julian-assange-ecuador-asylum-2012.md) |
 | 2012-08-29 | 2012 London Summer Paralympics | History & Politics | [link](history-politics/london-2012-paralympics.md) |
 | 2012-09-16 | 2012 Arctic Sea Ice Minimum | Science & Technology | [link](science-technology/arctic-sea-ice-minimum-2012.md) |
