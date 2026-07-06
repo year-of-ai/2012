@@ -27,6 +27,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 - [Julian Assange's Ecuador Asylum (August 2012)](history-politics/julian-assange-ecuador-asylum-2012.md)
 - [Michael Phelps's 2012 Olympic Swimming Performance](history-politics/michael-phelps-2012-olympics.md)
 - [2012 Summer Olympics Men's Basketball](history-politics/2012-olympics-mens-basketball.md)
+- [2012 London Olympics Equestrian Events](history-politics/london-2012-equestrian-events.md)
 
 ## Science & Technology
 
@@ -40,6 +41,7 @@ Category index: [science-technology/index.md](science-technology/index.md)
 - [2012 Arctic Sea Ice Minimum](science-technology/arctic-sea-ice-minimum-2012.md)
 - [Venus Transit of June 2012](science-technology/venus-transit-june-2012.md)
 - [Felix Baumgartner Red Bull Stratos (October 2012)](science-technology/red-bull-stratos-2012.md)
+- [SOPA/PIPA 2012 Internet Activism](science-technology/sopa-pipa-2012-activism.md)
 
 ## Arts & Culture
 
@@ -79,4 +81,5 @@ Category index: [people/index.md](people/index.md)
 - [Marissa Mayer Becomes Yahoo CEO](people/marissa-mayer-yahoo-ceo-2012.md)
 - [Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood](people/mohamed-morsi-2012-presidency.md)
 - [Kim Jong-un's 2012 Leadership Consolidation in North Korea](people/kim-jong-un-2012-succession.md)
+- [Xi Jinping's 2012 Elevation to General Secretary](people/xi-jinping-2012-elevation.md)
 <!-- END GENERATED: master-index -->

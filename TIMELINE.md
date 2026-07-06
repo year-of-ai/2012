@@ -12,6 +12,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 |------|------|----------|------|
 | 2009-10-02 | Rio 2016 Olympic Bid Success | History & Politics | [link](history-politics/rio-2016-olympic-bid.md) |
 | 2012-01-08 | Tebowing Cultural Phenomenon | Society & Economics | [link](society-economics/tebowing-phenomenon-2012.md) |
+| 2012-01-18 | SOPA/PIPA 2012 Internet Activism | Science & Technology | [link](science-technology/sopa-pipa-2012-activism.md) |
 | 2012-01-19 | Kodak Bankruptcy (January 2012) | Society & Economics | [link](society-economics/kodak-bankruptcy-2012.md) |
 | 2012-02-12 | Adele's Album "21" — 2012 Dominance | Arts & Culture | [link](arts-culture/adeles-21-album.md) |
 | 2012-03-05 | KONY 2012 Campaign | Society & Economics | [link](society-economics/kony-2012-campaign.md) |
@@ -34,6 +35,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-07-27 | 2012 London Summer Olympics | History & Politics | [link](history-politics/london-2012-olympics.md) |
 | 2012-07-27 | London 2012 Olympics Opening Ceremony | History & Politics | [link](history-politics/london-2012-opening-ceremony.md) |
 | 2012-07-28 | Michael Phelps's 2012 Olympic Swimming Performance | History & Politics | [link](history-politics/michael-phelps-2012-olympics.md) |
+| 2012-07-28 | 2012 London Olympics Equestrian Events | History & Politics | [link](history-politics/london-2012-equestrian-events.md) |
 | 2012-08-05 | Usain Bolt's 100m Olympic Gold and World Record | History & Politics | [link](history-politics/usain-bolt-100m-olympic-gold-2012.md) |
 | 2012-08-06 | Curiosity Rover Mars Landing | Science & Technology | [link](science-technology/curiosity-rover-mars-landing.md) |
 | 2012-08-12 | 2012 Summer Olympics Closing Ceremony | History & Politics | [link](history-politics/london-2012-closing-ceremony.md) |
@@ -52,6 +54,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-11-06 | 2012 United States Presidential Election | History & Politics | [link](history-politics/2012-us-presidential-election.md) |
 | 2012-11-06 | Barack Obama — 2012 Re-election Victory | People | [link](people/barack-obama-2012-reelection.md) |
 | 2012-11-06 | Mitt Romney 2012 Presidential Campaign | History & Politics | [link](history-politics/mitt-romney-2012-campaign.md) |
+| 2012-11-15 | Xi Jinping's 2012 Elevation to General Secretary | People | [link](people/xi-jinping-2012-elevation.md) |
 | 2012-11-19 | Juan Manuel Santos — Colombian Peace Process | People | [link](people/juan-manuel-santos-peace-process.md) |
 | 2012-12-14 | The Hobbit: An Unexpected Journey | Arts & Culture | [link](arts-culture/the-hobbit-unexpected-journey.md) |
 | 2012-12-14 | Peter Jackson — Filmmaker and The Hobbit Trilogy Creator | People | [link](people/peter-jackson-filmmaker.md) |

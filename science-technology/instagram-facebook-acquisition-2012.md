@@ -75,6 +75,7 @@ For the broader technology industry, Instagram's $1 billion exit for a company w
 - [European Debt Crisis 2012](../society-economics/european-debt-crisis-2012.md) — economic context for the venture capital environment that produced Instagram's valuation
 - [Facebook Initial Public Offering 2012](../society-economics/facebook-ipo-2012.md) — Facebook's May IPO, whose post-offering stock decline lowered the value of the stock-and-cash deal that bought Instagram
 - [Kodak Bankruptcy (January 2012)](../society-economics/kodak-bankruptcy-2012.md) — the century-old photography giant whose January 2012 collapse contrasted starkly with the 13-person Instagram's ~$1 billion valuation months later
+- [SOPA/PIPA 2012 Internet Activism](sopa-pipa-2012-activism.md) — the January 2012 blackout in which the platform companies acquiring and being acquired mobilized their users as a political constituency
 
 ## Sources
 

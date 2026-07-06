@@ -60,6 +60,7 @@ The constitutional enshrinement of nuclear status in April 2012 proved consequen
 - [Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood](mohamed-morsi-2012-presidency.md) — another consequential 2012 leadership change, in post-Mubarak Egypt
 - [South Korea 2012 Presidential Election](../history-politics/south-korea-2012-presidential-election.md) — the December 19 election of Park Geun-hye across the DMZ, the same year
 - [Syrian Civil War — 2012 Escalation](../history-politics/syrian-civil-war-escalation-2012.md) — the year's other flashpoint of UN Security Council deadlock over an authoritarian state
+- [Xi Jinping's 2012 Elevation to General Secretary](xi-jinping-2012-elevation.md) — the November leadership handover in North Korea's principal patron, China, the same year
 
 ## Sources
 

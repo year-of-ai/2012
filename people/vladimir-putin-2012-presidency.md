@@ -57,6 +57,7 @@ U.S.-Russia relations had been conducted under the "Reset" framework initiated b
 - [Syrian Civil War Escalation 2012](../history-politics/syrian-civil-war-escalation-2012.md) — the conflict at which Putin's veto power in the UN Security Council was most consequential
 - [2012 US Presidential Election](../history-politics/2012-us-presidential-election.md) — the American election that occurred as U.S.-Russia relations deteriorated under Putin's renewed presidency
 - [Kim Jong-un's 2012 Leadership Consolidation in North Korea](kim-jong-un-2012-succession.md) — a parallel 2012 consolidation of power in an authoritarian state
+- [Xi Jinping's 2012 Elevation to General Secretary](xi-jinping-2012-elevation.md) — China's November leadership handover, the start of the Putin–Xi partnership that would deepen through the decade
 
 ## Sources
 

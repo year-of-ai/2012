@@ -116,6 +116,7 @@ KONY 2012 became a canonical case study in multiple academic disciplines:
 - [Malala Yousafzai October 2012 Shooting](../people/malala-yousafzai-2012-shooting.md) — another 2012 cause that drew vast global attention to human rights through online mobilization
 - [Tebowing Cultural Phenomenon](tebowing-phenomenon-2012.md) — another 2012 instance of social-media virality coalescing, and fracturing public attention, around a single polarizing figure
 - [Julian Assange's Ecuador Asylum (August 2012)](../history-politics/julian-assange-ecuador-asylum-2012.md) — a parallel 2012 story of information activism and the contested politics of transparency in the digital age
+- [SOPA/PIPA 2012 Internet Activism](../science-technology/sopa-pipa-2012-activism.md) — the January 2012 blackout, the year's other landmark of internet-driven mass mobilization, judged a decisive success where KONY 2012 became a cautionary tale
 
 ## Sources
 
