@@ -55,6 +55,7 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 - [Gangnam Style Viral Phenomenon](arts-culture/gangnam-style-viral-phenomenon.md)
 - [The Dark Knight Rises (2012 Film)](arts-culture/the-dark-knight-rises.md)
 - [Skyfall (2012 Film)](arts-culture/skyfall-2012-film.md)
+- [The Newsroom HBO Series 2012 Premiere](arts-culture/the-newsroom-hbo-2012.md)
 
 ## Society & Economics
 
@@ -68,6 +69,7 @@ Category index: [society-economics/index.md](society-economics/index.md)
 - [Lance Armstrong USADA Investigation 2012](society-economics/lance-armstrong-usada-investigation-2012.md)
 - [Tebowing Cultural Phenomenon](society-economics/tebowing-phenomenon-2012.md)
 - [Kodak Bankruptcy (January 2012)](society-economics/kodak-bankruptcy-2012.md)
+- [Clint Eastwood's 2012 RNC Speech and Empty Chair Moment](society-economics/clint-eastwood-rnc-speech-2012.md)
 
 ## People
 
