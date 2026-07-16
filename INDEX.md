@@ -28,6 +28,8 @@ Category index: [history-politics/index.md](history-politics/index.md)
 - [Michael Phelps's 2012 Olympic Swimming Performance](history-politics/michael-phelps-2012-olympics.md)
 - [2012 Summer Olympics Men's Basketball](history-politics/2012-olympics-mens-basketball.md)
 - [2012 London Olympics Equestrian Events](history-politics/london-2012-equestrian-events.md)
+- [London 2012 Olympic Torch Relay](history-politics/london-2012-torch-relay.md)
+- [2012 Senkaku/Diaoyu Islands Dispute](history-politics/senkaku-diaoyu-dispute-2012.md)
 
 ## Science & Technology
 
@@ -42,6 +44,7 @@ Category index: [science-technology/index.md](science-technology/index.md)
 - [Venus Transit of June 2012](science-technology/venus-transit-june-2012.md)
 - [Felix Baumgartner Red Bull Stratos (October 2012)](science-technology/red-bull-stratos-2012.md)
 - [SOPA/PIPA 2012 Internet Activism](science-technology/sopa-pipa-2012-activism.md)
+- [Quantum Computing Advances 2012](science-technology/quantum-computing-advances-2012.md)
 
 ## Arts & Culture
 
@@ -56,6 +59,7 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 - [The Dark Knight Rises (2012 Film)](arts-culture/the-dark-knight-rises.md)
 - [Skyfall (2012 Film)](arts-culture/skyfall-2012-film.md)
 - [The Newsroom HBO Series 2012 Premiere](arts-culture/the-newsroom-hbo-2012.md)
+- [Pussy Riot Punk Protest and Trial (2012)](arts-culture/pussy-riot-2012-trial.md)
 
 ## Society & Economics
 
@@ -70,6 +74,9 @@ Category index: [society-economics/index.md](society-economics/index.md)
 - [Tebowing Cultural Phenomenon](society-economics/tebowing-phenomenon-2012.md)
 - [Kodak Bankruptcy (January 2012)](society-economics/kodak-bankruptcy-2012.md)
 - [Clint Eastwood's 2012 RNC Speech and Empty Chair Moment](society-economics/clint-eastwood-rnc-speech-2012.md)
+- [2012 Amazon Basin Record Flood](society-economics/amazon-flood-2012.md)
+- [Aurora, Colorado Theater Shooting (July 20, 2012)](society-economics/aurora-theater-shooting-2012.md)
+- [Sandy Hook Elementary School Shooting (December 14, 2012)](society-economics/sandy-hook-elementary-shooting-2012.md)
 
 ## People
 
@@ -84,4 +91,5 @@ Category index: [people/index.md](people/index.md)
 - [Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood](people/mohamed-morsi-2012-presidency.md)
 - [Kim Jong-un's 2012 Leadership Consolidation in North Korea](people/kim-jong-un-2012-succession.md)
 - [Xi Jinping's 2012 Elevation to General Secretary](people/xi-jinping-2012-elevation.md)
+- [Nobel Prize Announcements 2012](people/nobel-prize-2012.md)
 <!-- END GENERATED: master-index -->

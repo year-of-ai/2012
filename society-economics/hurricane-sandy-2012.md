@@ -71,6 +71,7 @@ Hurricane Sandy's legacy encompasses multiple dimensions: the immediate human an
 - [Barack Obama — 2012 Re-election Victory](../people/barack-obama-2012-reelection.md) — the incumbent whose disaster response in the final campaign week drew bipartisan praise
 - [KONY 2012 Campaign](kony-2012-campaign.md) — another 2012 case of social media driving rapid, large-scale civic mobilization
 - [2012 Arctic Sea Ice Minimum](../science-technology/arctic-sea-ice-minimum-2012.md) — the record Arctic melt of the same year, central to debate over whether a warming Arctic shapes mid-latitude storms like Sandy
+- [2012 Amazon Basin Record Flood](amazon-flood-2012.md) — another 2012 extreme hydrological disaster, the record flood that displaced tens of thousands across the western Amazon
 
 ## Sources
 

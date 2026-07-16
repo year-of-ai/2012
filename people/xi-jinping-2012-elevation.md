@@ -61,6 +61,7 @@ Xi's elevation in November 2012 set in motion a fundamental shift in Chinese for
 - [Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood](mohamed-morsi-2012-presidency.md) — another consequential 2012 leadership change, in post-Mubarak Egypt
 - [South Korea 2012 Presidential Election](../history-politics/south-korea-2012-presidential-election.md) — the December 19 election of Park Geun-hye in East Asia the same year
 - [Syrian Civil War — 2012 Escalation](../history-politics/syrian-civil-war-escalation-2012.md) — the conflict over which China (with Russia) repeatedly blocked UN Security Council action
+- [2012 Senkaku/Diaoyu Islands Dispute](../history-politics/senkaku-diaoyu-dispute-2012.md) — the Sino-Japanese maritime confrontation that unfolded during Xi's handover and prefigured his assertive, nationalist foreign policy
 
 ## Sources
 

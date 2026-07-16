@@ -66,6 +66,7 @@ The 2012 Arctic sea ice minimum has stood as the satellite-era record low ever s
 - [Curiosity Rover Mars Landing](curiosity-rover-mars-landing.md) — the August 2012 planetary-exploration milestone of the same year
 - [Apple iPhone 5 Launch](apple-iphone-5-launch.md) — a contemporaneous Science & Technology event in the 2012 record
 - [Venus Transit of June 2012](venus-transit-june-2012.md) — a 2012 astronomy event whose modern scientific value lay in calibrating exoplanet and atmospheric observation
+- [2012 Amazon Basin Record Flood](../society-economics/amazon-flood-2012.md) — a concurrent 2012 hydrological extreme in the tropics, part of the same year's record of a disturbed climate system
 
 ## Sources
 

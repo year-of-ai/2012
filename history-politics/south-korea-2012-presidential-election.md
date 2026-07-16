@@ -78,6 +78,7 @@ The closeness of the result — 51.55% versus 48.02% — reflected a deeply pola
 - [Vladimir Putin — 2012 Return to Presidency](../people/vladimir-putin-2012-presidency.md) — the major leadership transition in Northeast Asia's neighboring great power, with direct implications for Korean security
 - [Malala Yousafzai — 2012 Shooting](../people/malala-yousafzai-2012-shooting.md) — another 2012 story foregrounding women's prominent roles in global politics under extraordinary circumstances
 - [Kim Jong-un's 2012 Leadership Consolidation in North Korea](../people/kim-jong-un-2012-succession.md) — the concurrent, hereditary leadership transition across the DMZ, a sharp contrast to the South's democratic contest
+- [2012 Senkaku/Diaoyu Islands Dispute](senkaku-diaoyu-dispute-2012.md) — the concurrent Northeast Asian security flashpoint straining the trilateral U.S.–Japan–South Korea relationship
 
 ## Sources
 
