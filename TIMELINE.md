@@ -29,6 +29,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-06-05 | Queen Elizabeth II Diamond Jubilee | History & Politics | [link]({{ '/news/history-politics/queen-elizabeth-diamond-jubilee-2012/' | relative_url }}) |
 | 2012-06-06 | Venus Transit of June 2012 | Science & Technology | [link]({{ '/news/science-technology/venus-transit-june-2012/' | relative_url }}) |
 | 2012-06-24 | The Newsroom HBO Series 2012 Premiere | Arts & Culture | [link]({{ '/news/arts-culture/the-newsroom-hbo-2012/' | relative_url }}) |
+| 2012-06-28 | NFIB v. Sebelius: Supreme Court Upholds Affordable Care Act | History & Politics | [link]({{ '/news/history-politics/nfib-sebelius-affordable-care-act/' | relative_url }}) |
 | 2012-06-30 | Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood | People | [link]({{ '/news/people/mohamed-morsi-2012-presidency/' | relative_url }}) |
 | 2012-07-01 | UEFA Euro 2012 Football Championship | Arts & Culture | [link]({{ '/news/arts-culture/euro-2012-football-championship/' | relative_url }}) |
 | 2012-07-04 | Higgs Boson Discovery | Science & Technology | [link]({{ '/news/science-technology/higgs-boson-discovery/' | relative_url }}) |
@@ -47,6 +48,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-08-12 | 2012 Summer Olympics Men's Basketball | History & Politics | [link]({{ '/news/history-politics/2012-olympics-mens-basketball/' | relative_url }}) |
 | 2012-08-17 | Pussy Riot Punk Protest and Trial (2012) | Arts & Culture | [link]({{ '/news/arts-culture/pussy-riot-2012-trial/' | relative_url }}) |
 | 2012-08-19 | Julian Assange's Ecuador Asylum (August 2012) | History & Politics | [link]({{ '/news/history-politics/julian-assange-ecuador-asylum-2012/' | relative_url }}) |
+| 2012-08-25 | Voyager 1 Leaves the Heliosphere | Science & Technology | [link]({{ '/news/science-technology/voyager-1-heliosphere-crossing/' | relative_url }}) |
 | 2012-08-29 | 2012 London Summer Paralympics | History & Politics | [link]({{ '/news/history-politics/london-2012-paralympics/' | relative_url }}) |
 | 2012-08-30 | Clint Eastwood's 2012 RNC Speech and Empty Chair Moment | Society & Economics | [link]({{ '/news/society-economics/clint-eastwood-rnc-speech-2012/' | relative_url }}) |
 | 2012-09-11 | 2012 Senkaku/Diaoyu Islands Dispute | History & Politics | [link]({{ '/news/history-politics/senkaku-diaoyu-dispute-2012/' | relative_url }}) |

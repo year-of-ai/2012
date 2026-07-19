@@ -72,6 +72,7 @@ NASA's live broadcast of the landing drew exceptional viewership. Footage of the
 - [2012 Arctic Sea Ice Minimum]({{ '/news/science-technology/arctic-sea-ice-minimum-2012/' | relative_url }}) — a 2012 Earth-science milestone that, unlike Curiosity, measured a warning rather than an achievement
 - [Venus Transit of June 2012]({{ '/news/science-technology/venus-transit-june-2012/' | relative_url }}) — another 2012 planetary-science event, observed two months before Curiosity reached Mars
 - [Felix Baumgartner Red Bull Stratos (October 2012)]({{ '/news/science-technology/red-bull-stratos-2012/' | relative_url }}) — an October 2012 stratospheric-freefall milestone in the same year of expanding human aerospace reach
+- [Voyager 1 Leaves the Heliosphere]({{ '/news/science-technology/voyager-1-heliosphere-crossing/' | relative_url }}) — just 19 days after Curiosity landed, Voyager 1 crossed the heliopause to become the first human artifact in interstellar space
 
 ## Sources
 

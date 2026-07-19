@@ -73,6 +73,7 @@ The Higgs boson discovery represented the capstone of the **Standard Model**, co
 - [Instagram Facebook Acquisition 2012]({{ '/news/science-technology/instagram-facebook-acquisition-2012/' | relative_url }}) — the year's defining moment in consumer technology and mobile platforms
 - [2012 Arctic Sea Ice Minimum]({{ '/news/science-technology/arctic-sea-ice-minimum-2012/' | relative_url }}) — a contrasting 2012 science story, recording an environmental warning rather than a discovery
 - [Venus Transit of June 2012]({{ '/news/science-technology/venus-transit-june-2012/' | relative_url }}) — the year's other landmark physics-and-astronomy event, a once-in-a-century alignment observed weeks earlier
+- [Voyager 1 Leaves the Heliosphere]({{ '/news/science-technology/voyager-1-heliosphere-crossing/' | relative_url }}) — the August 25 crossing into interstellar space, completing 2012's signature triple of physics-and-space milestones (Higgs, Curiosity, heliopause)
 
 ## Sources
 

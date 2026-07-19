@@ -76,6 +76,7 @@ From a historical perspective, Obama became the third consecutive sitting presid
 - [Mitt Romney 2012 Presidential Campaign]({{ '/news/history-politics/mitt-romney-2012-campaign/' | relative_url }}) — the losing Republican campaign, its primary fight, the "47 percent" video, and the ORCA Election-Day failure
 - [South Korea 2012 Presidential Election]({{ '/news/history-politics/south-korea-2012-presidential-election/' | relative_url }}) — the other major democratic contest of late 2012, decided weeks later on December 19
 - [2012 US Fiscal Cliff and Congressional Negotiations]({{ '/news/history-politics/us-fiscal-cliff-2012/' | relative_url }}) — the year-end budget confrontation the election's outcome immediately shaped, Obama's win read as a mandate for higher taxes on top earners
+- [NFIB v. Sebelius: Supreme Court Upholds Affordable Care Act]({{ '/news/history-politics/nfib-sebelius-affordable-care-act/' | relative_url }}) — the June 28 ruling that preserved Obama's signature healthcare law and set the terms of the campaign's healthcare debate
 
 ## Sources
 

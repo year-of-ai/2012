@@ -70,6 +70,7 @@ The 2012 election validated statistical forecasting models as superior predictor
 - [Mitt Romney 2012 Presidential Campaign]({{ '/news/history-politics/mitt-romney-2012-campaign/' | relative_url }}) — the opposing campaign Obama defeated, including its data operation and the "47 percent" controversy
 - [2012 US Fiscal Cliff and Congressional Negotiations]({{ '/news/history-politics/us-fiscal-cliff-2012/' | relative_url }}) — the budget showdown that immediately followed the vote, in which Obama pressed the tax-fairness position he had campaigned on
 - [Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood]({{ '/news/people/mohamed-morsi-2012-presidency/' | relative_url }}) — the Egyptian president whose November 2012 mediation of a Gaza ceasefire the Obama administration publicly credited
+- [NFIB v. Sebelius: Supreme Court Upholds Affordable Care Act]({{ '/news/history-politics/nfib-sebelius-affordable-care-act/' | relative_url }}) — the June 28 Supreme Court ruling that upheld the ACA, the achievement whose preservation the election validated
 
 ## Sources
 
