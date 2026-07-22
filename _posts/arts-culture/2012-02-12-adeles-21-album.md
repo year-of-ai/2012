@@ -68,6 +68,7 @@ The Grammy broadcast reached an estimated **39.9 million viewers** in the United
 - [European Debt Crisis — 2012 Escalation]({{ '/news/society-economics/european-debt-crisis-2012/' | relative_url }}) — the economic backdrop of austerity Britain that shaped public cultural consumption in 2012
 - [Pro Evolution Soccer 2013]({{ '/news/arts-culture/pro-evolution-soccer-2013/' | relative_url }}) — a 2012 entertainment release whose critical resurgence paralleled *21*'s sustained commercial dominance
 - [Skyfall (2012 Film)]({{ '/news/arts-culture/skyfall-2012-film/' | relative_url }}) — Adele's Oscar-winning theme song extended her 2011–2012 dominance into the year's highest-grossing Bond film
+- [Whitney Houston's Death (February 2012)]({{ '/news/arts-culture/whitney-houston-death/' | relative_url }}) — the pop legend whose death on February 11 cast a shadow over the 54th Grammy Awards that *21* swept the following night
 
 ## Sources
 

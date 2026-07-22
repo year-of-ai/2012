@@ -15,6 +15,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-01-08 | Tebowing Cultural Phenomenon | Society & Economics | [link]({{ '/news/society-economics/tebowing-phenomenon-2012/' | relative_url }}) |
 | 2012-01-18 | SOPA/PIPA 2012 Internet Activism | Science & Technology | [link]({{ '/news/science-technology/sopa-pipa-2012-activism/' | relative_url }}) |
 | 2012-01-19 | Kodak Bankruptcy (January 2012) | Society & Economics | [link]({{ '/news/society-economics/kodak-bankruptcy-2012/' | relative_url }}) |
+| 2012-02-11 | Whitney Houston's Death (February 2012) | Arts & Culture | [link]({{ '/news/arts-culture/whitney-houston-death/' | relative_url }}) |
 | 2012-02-12 | Adele's Album "21" — 2012 Dominance | Arts & Culture | [link]({{ '/news/arts-culture/adeles-21-album/' | relative_url }}) |
 | 2012-03-05 | KONY 2012 Campaign | Society & Economics | [link]({{ '/news/society-economics/kony-2012-campaign/' | relative_url }}) |
 | 2012-04-09 | Instagram Facebook Acquisition 2012 | Science & Technology | [link]({{ '/news/science-technology/instagram-facebook-acquisition-2012/' | relative_url }}) |
@@ -71,5 +72,6 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-12-14 | Peter Jackson — Filmmaker and The Hobbit Trilogy Creator | People | [link]({{ '/news/people/peter-jackson-filmmaker/' | relative_url }}) |
 | 2012-12-14 | Sandy Hook Elementary School Shooting | Society & Economics | [link]({{ '/news/society-economics/sandy-hook-elementary-shooting-2012/' | relative_url }}) |
 | 2012-12-19 | South Korea 2012 Presidential Election | History & Politics | [link]({{ '/news/history-politics/south-korea-2012-presidential-election/' | relative_url }}) |
+| 2012-12-21 | Mayan Apocalypse Phenomenon (December 2012) | Society & Economics | [link]({{ '/news/society-economics/mayan-apocalypse-phenomenon/' | relative_url }}) |
 | 2012-12-31 | 2012 US Fiscal Cliff and Congressional Negotiations | History & Politics | [link]({{ '/news/history-politics/us-fiscal-cliff-2012/' | relative_url }}) |
 <!-- END GENERATED: timeline -->

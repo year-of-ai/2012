@@ -77,6 +77,7 @@ Hurricane Sandy's legacy encompasses multiple dimensions: the immediate human an
 - [KONY 2012 Campaign]({{ '/news/society-economics/kony-2012-campaign/' | relative_url }}) — another 2012 case of social media driving rapid, large-scale civic mobilization
 - [2012 Arctic Sea Ice Minimum]({{ '/news/science-technology/arctic-sea-ice-minimum-2012/' | relative_url }}) — the record Arctic melt of the same year, central to debate over whether a warming Arctic shapes mid-latitude storms like Sandy
 - [2012 Amazon Basin Record Flood]({{ '/news/society-economics/amazon-flood-2012/' | relative_url }}) — another 2012 extreme hydrological disaster, the record flood that displaced tens of thousands across the western Amazon
+- [Mayan Apocalypse Phenomenon (December 2012)]({{ '/news/society-economics/mayan-apocalypse-phenomenon/' | relative_url }}) — the predicted December 21 catastrophe that never came, a fictional counterpart to the year's real disasters
 
 ## Sources
 
