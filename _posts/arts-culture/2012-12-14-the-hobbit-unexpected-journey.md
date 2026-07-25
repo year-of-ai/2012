@@ -92,6 +92,7 @@ The three films collectively grossed approximately **$2.93 billion** worldwide, 
 - [European Debt Crisis — 2012 Escalation]({{ '/news/society-economics/european-debt-crisis-2012/' | relative_url }}) — the economic context of austerity Europe in which blockbuster franchise cinema served as major entertainment
 - [Pro Evolution Soccer 2013]({{ '/news/arts-culture/pro-evolution-soccer-2013/' | relative_url }}) — another 2012 franchise entertainment release navigating legacy and new technology
 - [Peter Jackson — Filmmaker and The Hobbit Trilogy Creator]({{ '/news/people/peter-jackson-filmmaker/' | relative_url }}) — the film's director, his Middle-earth career, and the New Zealand screen industry behind the production
+- [Les Misérables (2012 Film)]({{ '/news/arts-culture/les-miserables-2012-film/' | relative_url }}) — Tom Hooper's musical, released eleven days later into the same competitive holiday marketplace
 
 ## Sources
 
