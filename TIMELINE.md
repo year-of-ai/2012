@@ -1,5 +1,6 @@
 ---
 title: "Timeline — the year 2012"
+preview: /images/previews/timeline-the-year-2012.svg
 ---
 
 # Timeline of 2012
@@ -28,6 +29,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-05-19 | London 2012 Olympic Torch Relay | History & Politics | [link]({{ '/news/history-politics/london-2012-torch-relay/' | relative_url }}) |
 | 2012-05-29 | 2012 Amazon Basin Record Flood | Society & Economics | [link]({{ '/news/society-economics/amazon-flood-2012/' | relative_url }}) |
 | 2012-06-01 | European Debt Crisis — 2012 Escalation | Society & Economics | [link]({{ '/news/society-economics/european-debt-crisis-2012/' | relative_url }}) |
+| 2012-06-01 | Spain's 2012 Banking and Property Crisis | Society & Economics | [link]({{ '/news/society-economics/spain-banking-property-crisis/' | relative_url }}) |
 | 2012-06-05 | Queen Elizabeth II Diamond Jubilee | History & Politics | [link]({{ '/news/history-politics/queen-elizabeth-diamond-jubilee-2012/' | relative_url }}) |
 | 2012-06-06 | Venus Transit of June 2012 | Science & Technology | [link]({{ '/news/science-technology/venus-transit-june-2012/' | relative_url }}) |
 | 2012-06-24 | The Newsroom HBO Series 2012 Premiere | Arts & Culture | [link]({{ '/news/arts-culture/the-newsroom-hbo-2012/' | relative_url }}) |
@@ -48,6 +50,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-08-06 | Curiosity Rover Mars Landing | Science & Technology | [link]({{ '/news/science-technology/curiosity-rover-mars-landing/' | relative_url }}) |
 | 2012-08-12 | 2012 Summer Olympics Closing Ceremony | History & Politics | [link]({{ '/news/history-politics/london-2012-closing-ceremony/' | relative_url }}) |
 | 2012-08-12 | 2012 Summer Olympics Men's Basketball | History & Politics | [link]({{ '/news/history-politics/2012-olympics-mens-basketball/' | relative_url }}) |
+| 2012-08-12 | East London Regeneration and the 2012 Olympic Legacy | History & Politics | [link]({{ '/news/history-politics/east-london-regeneration-olympic-legacy/' | relative_url }}) |
 | 2012-08-17 | Pussy Riot Punk Protest and Trial (2012) | Arts & Culture | [link]({{ '/news/arts-culture/pussy-riot-2012-trial/' | relative_url }}) |
 | 2012-08-19 | Julian Assange's Ecuador Asylum (August 2012) | History & Politics | [link]({{ '/news/history-politics/julian-assange-ecuador-asylum-2012/' | relative_url }}) |
 | 2012-08-25 | Voyager 1 Leaves the Heliosphere | Science & Technology | [link]({{ '/news/science-technology/voyager-1-heliosphere-crossing/' | relative_url }}) |
@@ -64,6 +67,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-10-23 | Skyfall (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/skyfall-2012-film/' | relative_url }}) |
 | 2012-10-26 | Windows 8 Release | Science & Technology | [link]({{ '/news/science-technology/windows-8-release/' | relative_url }}) |
 | 2012-10-29 | Hurricane Sandy — 2012 Atlantic Disaster | Society & Economics | [link]({{ '/news/society-economics/hurricane-sandy-2012/' | relative_url }}) |
+| 2012-10-29 | Occupy Sandy: Mutual-Aid Disaster Response | Society & Economics | [link]({{ '/news/society-economics/occupy-sandy-mutual-aid/' | relative_url }}) |
 | 2012-11-06 | 2012 United States Presidential Election | History & Politics | [link]({{ '/news/history-politics/2012-us-presidential-election/' | relative_url }}) |
 | 2012-11-06 | Barack Obama — 2012 Re-election Victory | People | [link]({{ '/news/people/barack-obama-2012-reelection/' | relative_url }}) |
 | 2012-11-06 | Mitt Romney 2012 Presidential Campaign | History & Politics | [link]({{ '/news/history-politics/mitt-romney-2012-campaign/' | relative_url }}) |

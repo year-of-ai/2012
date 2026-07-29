@@ -84,6 +84,7 @@ The "Embrace" segment's formal handover to Rio represented a historically signif
 
 - [London 2012 Olympics Opening Ceremony]({{ '/news/history-politics/london-2012-opening-ceremony/' | relative_url }}) — Danny Boyle's "Isles of Wonder" opening spectacle, which this ceremony complemented and contrasted
 - [2012 London Summer Olympics]({{ '/news/history-politics/london-2012-olympics/' | relative_url }}) — the broader Games context: 10,518 athletes, 302 events, 206 nations
+- [East London Regeneration and the 2012 Olympic Legacy]({{ '/news/history-politics/east-london-regeneration-olympic-legacy/' | relative_url }}) — the long-term transformation of the Stratford Olympic Park that this ceremony symbolically set in motion
 - [Rio 2016 Olympic Bid Success]({{ '/news/history-politics/rio-2016-olympic-bid/' | relative_url }}) — the host-nation handover featured in the ceremony's closing segment; Brazil's October 2009 selection
 - [Gangnam Style Viral Phenomenon]({{ '/news/arts-culture/gangnam-style-viral-phenomenon/' | relative_url }}) — the global pop phenomenon of the same summer; the K-pop contrast to British pop's ceremonial celebration
 - [Queen Elizabeth II Diamond Jubilee 2012]({{ '/news/history-politics/queen-elizabeth-diamond-jubilee-2012/' | relative_url }}) — the other major British national cultural occasion of the same summer

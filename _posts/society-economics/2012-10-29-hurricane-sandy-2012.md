@@ -71,6 +71,7 @@ Hurricane Sandy's legacy encompasses multiple dimensions: the immediate human an
 
 ## See Also
 
+- [Occupy Sandy: Mutual-Aid Disaster Response]({{ '/news/society-economics/occupy-sandy-mutual-aid/' | relative_url }}) — the grassroots mutual-aid network that self-organized within hours of this storm's landfall
 - [Occupy Wall Street — 2012 Momentum]({{ '/news/society-economics/occupy-wall-street-2012/' | relative_url }}) — the movement whose organizers and infrastructure gave rise to the Occupy Sandy mutual-aid network
 - [2012 United States Presidential Election]({{ '/news/history-politics/2012-us-presidential-election/' | relative_url }}) — the election held eight days after landfall, on which the storm response left a mark
 - [Barack Obama — 2012 Re-election Victory]({{ '/news/people/barack-obama-2012-reelection/' | relative_url }}) — the incumbent whose disaster response in the final campaign week drew bipartisan praise

@@ -2,6 +2,7 @@
 title: The Year 2012 — Knowledge Index
 permalink: "/knowledge-index/"
 description: The full 2012 knowledge table — every notable event, linked to its article.
+preview: /images/previews/the-year-2012-knowledge-index.svg
 ---
 
 # the year 2012
@@ -81,6 +82,9 @@ a time, by the [hub orchestrator](https://year-of-ai.github.io/orchestration/).
 | [2012 Amazon Basin Record Flood]({{ '/news/society-economics/amazon-flood-2012/' | relative_url }}) | Record Amazon flood: the Rio Negro at Manaus peaked at 29.97 metres on May 29, the highest in the gauge's century-long record; tens of thousands displaced across the western Amazon and a state of emergency in most of Amazonas, linked to La Niña and a cool tropical South Atlantic. |
 | [Whitney Houston's Death (February 2012)]({{ '/news/arts-culture/whitney-houston-death/' | relative_url }}) | Pop icon found dead at 48 in a Beverly Hilton bathtub on February 11, on the eve of the 54th Grammy Awards; coroner ruled accidental drowning tied to atherosclerotic heart disease and cocaine; global outpouring and a Jennifer Hudson tribute at the ceremony the next night. |
 | [Mayan Apocalypse Phenomenon (December 2012)]({{ '/news/society-economics/mayan-apocalypse-phenomenon/' | relative_url }}) | December 21 completion of the Maya Long Count's 13th b'ak'tun recast in Western pop culture as a prophesied apocalypse; fuelled by Emmerich's film *2012*, doomsday theories, and survival-bunker sales before passing as an ordinary winter solstice. |
+| [Occupy Sandy: Mutual-Aid Disaster Response]({{ '/news/society-economics/occupy-sandy-mutual-aid/' | relative_url }}) | Post-Hurricane Sandy mutual-aid network organized by Occupy Wall Street activists; provided direct relief to displaced New Yorkers through volunteer coordination and supply distribution; demonstrated grassroots alternative to government and corporate disaster response. |
+| [East London Regeneration and the 2012 Olympic Legacy]({{ '/news/history-politics/east-london-regeneration-olympic-legacy/' | relative_url }}) | The 2012 Olympics catalyzed £9+ billion regeneration of East London; closing ceremony marked the start of Olympic Park's transformation into Queen Elizabeth Olympic Park with housing, venues, and public space; addressed decades of infrastructure deficit. |
+| [Spain's 2012 Banking and Property Crisis]({{ '/news/society-economics/spain-banking-property-crisis/' | relative_url }}) | Spain's property-market collapse and banking crisis deepened in 2012; unemployment reached 25%, construction sector imploded, and major banks required bailout; €100 billion eurozone bank-recapitalization package came with strict austerity conditions. |
 
 Browse the full [master index]({{ '/news/' | relative_url }}) or the chronological [timeline](TIMELINE.md) of 2012.
 
