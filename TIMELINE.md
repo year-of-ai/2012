@@ -14,6 +14,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2009-10-02 | Rio 2016 Olympic Bid Success | History & Politics | [link]({{ '/news/history-politics/rio-2016-olympic-bid/' | relative_url }}) |
 | 2012-01-01 | Quantum Computing Advances 2012 | Science & Technology | [link]({{ '/news/science-technology/quantum-computing-advances-2012/' | relative_url }}) |
 | 2012-01-08 | Tebowing Cultural Phenomenon | Society & Economics | [link]({{ '/news/society-economics/tebowing-phenomenon-2012/' | relative_url }}) |
+| 2012-01-13 | Costa Concordia Disaster | Society & Economics | [link]({{ '/news/society-economics/costa-concordia-disaster/' | relative_url }}) |
 | 2012-01-18 | SOPA/PIPA 2012 Internet Activism | Science & Technology | [link]({{ '/news/science-technology/sopa-pipa-2012-activism/' | relative_url }}) |
 | 2012-01-19 | Kodak Bankruptcy (January 2012) | Society & Economics | [link]({{ '/news/society-economics/kodak-bankruptcy-2012/' | relative_url }}) |
 | 2012-01-31 | Susan G. Komen–Planned Parenthood Controversy | Society & Economics | [link]({{ '/news/society-economics/susan-g-komen-planned-parenthood-controversy/' | relative_url }}) |
