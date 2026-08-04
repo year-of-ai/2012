@@ -37,6 +37,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-06-28 | NFIB v. Sebelius: Supreme Court Upholds Affordable Care Act | History & Politics | [link]({{ '/news/history-politics/nfib-sebelius-affordable-care-act/' | relative_url }}) |
 | 2012-06-30 | Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood | People | [link]({{ '/news/people/mohamed-morsi-2012-presidency/' | relative_url }}) |
 | 2012-07-01 | UEFA Euro 2012 Football Championship | Arts & Culture | [link]({{ '/news/arts-culture/euro-2012-football-championship/' | relative_url }}) |
+| 2012-07-01 | Fukushima Daiichi and Japan's 2012 Nuclear Restart | Society & Economics | [link]({{ '/news/society-economics/fukushima-nuclear-2012-japan/' | relative_url }}) |
 | 2012-07-04 | Higgs Boson Discovery | Science & Technology | [link]({{ '/news/science-technology/higgs-boson-discovery/' | relative_url }}) |
 | 2012-07-15 | Syrian Civil War — 2012 Escalation | History & Politics | [link]({{ '/news/history-politics/syrian-civil-war-escalation-2012/' | relative_url }}) |
 | 2012-07-15 | Gangnam Style Viral Phenomenon | Arts & Culture | [link]({{ '/news/arts-culture/gangnam-style-viral-phenomenon/' | relative_url }}) |

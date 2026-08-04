@@ -71,6 +71,7 @@ The 2012 Arctic sea ice minimum has stood as the satellite-era record low ever s
 - [Apple iPhone 5 Launch]({{ '/news/science-technology/apple-iphone-5-launch/' | relative_url }}) — a contemporaneous Science & Technology event in the 2012 record
 - [Venus Transit of June 2012]({{ '/news/science-technology/venus-transit-june-2012/' | relative_url }}) — a 2012 astronomy event whose modern scientific value lay in calibrating exoplanet and atmospheric observation
 - [2012 Amazon Basin Record Flood]({{ '/news/society-economics/amazon-flood-2012/' | relative_url }}) — a concurrent 2012 hydrological extreme in the tropics, part of the same year's record of a disturbed climate system
+- [Fukushima Daiichi and Japan's 2012 Nuclear Restart]({{ '/news/society-economics/fukushima-nuclear-2012-japan/' | relative_url }}) — a 2012 energy-and-climate story, as Japan's emergency substitution of fossil fuels for shuttered nuclear plants added to global carbon emissions
 
 ## Sources
 

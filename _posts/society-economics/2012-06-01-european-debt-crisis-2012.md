@@ -95,6 +95,7 @@ The 2012 escalation was the moment when the eurozone's survival was genuinely in
 - [Spain's 2012 Banking and Property Crisis]({{ '/news/society-economics/spain-banking-property-crisis/' | relative_url }}) — the defining national episode of the broader crisis: the Bankia failure and the €100 billion eurozone bank bailout
 - [UEFA Euro 2012 Football Championship]({{ '/news/arts-culture/euro-2012-football-championship/' | relative_url }}) — the summer tournament played across nations, including Greece, Portugal, and Ireland, hit hardest by the crisis
 - [Queen Elizabeth II Diamond Jubilee]({{ '/news/history-politics/queen-elizabeth-diamond-jubilee-2012/' | relative_url }}) — Britain's summer of celebration against the backdrop of government austerity
+- [Fukushima Daiichi and Japan's 2012 Nuclear Restart]({{ '/news/society-economics/fukushima-nuclear-2012-japan/' | relative_url }}) — a parallel 2012 economic strain, as Japan's post-Fukushima fossil-fuel import surge drove its first trade deficit in three decades
 - [2012 US Fiscal Cliff and Congressional Negotiations]({{ '/news/history-politics/us-fiscal-cliff-2012/' | relative_url }}) — the parallel debate over fiscal contraction in the United States, where Europe's austerity experience served as a cautionary example
 
 ## Sources
