@@ -75,3 +75,4 @@ The 2012 campaign reinforced several structural shifts in American elections:
 - [Barack Obama — 2012 Re-election Victory]({{ '/news/people/barack-obama-2012-reelection/' | relative_url }}) — the incumbent whose data operation and disaster response Romney's campaign was measured against
 - [Hurricane Sandy — 2012 Atlantic Disaster]({{ '/news/society-economics/hurricane-sandy-2012/' | relative_url }}) — the late-October storm that halted campaigning days before the vote
 - [2012 US Fiscal Cliff and Congressional Negotiations]({{ '/news/history-politics/us-fiscal-cliff-2012/' | relative_url }}) — the year-end budget fight that followed Romney's defeat, leaving Obama with a stronger hand over tax policy
+- [2012 Presidential Debates and Vice Presidential Debate]({{ '/news/history-politics/2012-presidential-debates/' | relative_url }}) — the October debates, including Romney's decisive first-debate performance in Denver

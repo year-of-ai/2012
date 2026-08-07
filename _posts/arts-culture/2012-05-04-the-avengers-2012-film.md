@@ -60,6 +60,7 @@ In 2017, *Empire* magazine ranked it among the 100 greatest films of all time. T
 - [Gangnam Style Viral Phenomenon]({{ '/news/arts-culture/gangnam-style-viral-phenomenon/' | relative_url }}) — the year's other globe-spanning popular-entertainment juggernaut, built on digital virality rather than studio marketing
 - [Pro Evolution Soccer 2013]({{ '/news/arts-culture/pro-evolution-soccer-2013/' | relative_url }}) — another 2012 entry in a major entertainment franchise
 - [Skyfall (2012 Film)]({{ '/news/arts-culture/skyfall-2012-film/' | relative_url }}) — the year's second-highest-grossing film, behind *The Avengers*, in a 2012 box office topped by franchise tentpoles
+- [The Hunger Games (2012 Film)]({{ '/news/arts-culture/the-hunger-games-2012-film/' | relative_url }}) — the March release that opened 2012's blockbuster wave and was the year's top-grossing film in North America
 
 ## Sources
 

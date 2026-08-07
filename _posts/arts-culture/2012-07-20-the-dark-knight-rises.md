@@ -97,6 +97,7 @@ The Christopher Nolan Batman trilogy collectively grossed approximately **$2.47 
 - [Gangnam Style Viral Phenomenon]({{ '/news/arts-culture/gangnam-style-viral-phenomenon/' | relative_url }}) — July 2012 cultural phenomenon sharing the summer's spotlight with The Dark Knight Rises' release
 - [London 2012 Olympics]({{ '/news/history-politics/london-2012-olympics/' | relative_url }}) — the global spectacle of the same month, July 2012; both competed for summer cultural attention
 - [Skyfall (2012 Film)]({{ '/news/arts-culture/skyfall-2012-film/' | relative_url }}) — the year's second-highest-grossing film, ranked just above *The Dark Knight Rises* at the 2012 global box office
+- [The Hunger Games (2012 Film)]({{ '/news/arts-culture/the-hunger-games-2012-film/' | relative_url }}) — the year's top-grossing film in North America, outgrossing *The Dark Knight Rises* domestically for the 2012 calendar year
 
 ## Sources
 

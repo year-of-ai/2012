@@ -111,6 +111,7 @@ Armstrong subsequently pursued a partial legal rehabilitation, filing a lawsuit 
 - [Occupy Wall Street — 2012 Momentum]({{ '/news/society-economics/occupy-wall-street-2012/' | relative_url }}) — the parallel 2012 debate about institutional power, corporate integrity, and accountability to the public
 - [Marissa Mayer Becomes Yahoo CEO]({{ '/news/people/marissa-mayer-yahoo-ceo-2012/' | relative_url }}) — another 2012 figure whose public narrative and institutional credibility were central to their professional trajectory
 - [European Debt Crisis — 2012 Escalation]({{ '/news/society-economics/european-debt-crisis-2012/' | relative_url }}) — global context of institutional credibility crises, in which Armstrong's case became part of a broader 2012 reckoning with deception in public life
+- [2012 Formula One Season and Sebastian Vettel's Third Championship]({{ '/news/society-economics/formula-one-2012-season/' | relative_url }}) — another 2012 elite-sport story, contrasting a clean championship battle with the year's defining doping scandal
 
 ## Sources
 

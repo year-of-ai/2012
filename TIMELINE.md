@@ -21,6 +21,8 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-02-11 | Whitney Houston's Death (February 2012) | Arts & Culture | [link]({{ '/news/arts-culture/whitney-houston-death/' | relative_url }}) |
 | 2012-02-12 | Adele's Album "21" — 2012 Dominance | Arts & Culture | [link]({{ '/news/arts-culture/adeles-21-album/' | relative_url }}) |
 | 2012-03-05 | KONY 2012 Campaign | Society & Economics | [link]({{ '/news/society-economics/kony-2012-campaign/' | relative_url }}) |
+| 2012-03-18 | 2012 Formula One Season and Sebastian Vettel's Third Championship | Society & Economics | [link]({{ '/news/society-economics/formula-one-2012-season/' | relative_url }}) |
+| 2012-03-23 | The Hunger Games (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/the-hunger-games-2012-film/' | relative_url }}) |
 | 2012-04-09 | Instagram Facebook Acquisition 2012 | Science & Technology | [link]({{ '/news/science-technology/instagram-facebook-acquisition-2012/' | relative_url }}) |
 | 2012-04-15 | Kim Jong-un's 2012 Leadership Consolidation in North Korea | People | [link]({{ '/news/people/kim-jong-un-2012-succession/' | relative_url }}) |
 | 2012-05-01 | Occupy Wall Street — 2012 Momentum | Society & Economics | [link]({{ '/news/society-economics/occupy-wall-street-2012/' | relative_url }}) |
@@ -62,6 +64,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-09-16 | 2012 Arctic Sea Ice Minimum | Science & Technology | [link]({{ '/news/science-technology/arctic-sea-ice-minimum-2012/' | relative_url }}) |
 | 2012-09-21 | Pro Evolution Soccer 2013 | Arts & Culture | [link]({{ '/news/arts-culture/pro-evolution-soccer-2013/' | relative_url }}) |
 | 2012-09-21 | Apple iPhone 5 Launch | Science & Technology | [link]({{ '/news/science-technology/apple-iphone-5-launch/' | relative_url }}) |
+| 2012-10-03 | 2012 Presidential Debates and Vice Presidential Debate | History & Politics | [link]({{ '/news/history-politics/2012-presidential-debates/' | relative_url }}) |
 | 2012-10-08 | Nobel Prize Announcements 2012 | People | [link]({{ '/news/people/nobel-prize-2012/' | relative_url }}) |
 | 2012-10-09 | Malala Yousafzai October 2012 Shooting | People | [link]({{ '/news/people/malala-yousafzai-2012-shooting/' | relative_url }}) |
 | 2012-10-10 | Lance Armstrong USADA Investigation 2012 | Society & Economics | [link]({{ '/news/society-economics/lance-armstrong-usada-investigation-2012/' | relative_url }}) |
