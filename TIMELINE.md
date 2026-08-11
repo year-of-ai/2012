@@ -20,7 +20,9 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-01-31 | Susan G. Komen–Planned Parenthood Controversy | Society & Economics | [link]({{ '/news/society-economics/susan-g-komen-planned-parenthood-controversy/' | relative_url }}) |
 | 2012-02-11 | Whitney Houston's Death (February 2012) | Arts & Culture | [link]({{ '/news/arts-culture/whitney-houston-death/' | relative_url }}) |
 | 2012-02-12 | Adele's Album "21" — 2012 Dominance | Arts & Culture | [link]({{ '/news/arts-culture/adeles-21-album/' | relative_url }}) |
+| 2012-02-14 | "Call Me Maybe" by Carly Rae Jepsen | Arts & Culture | [link]({{ '/news/arts-culture/call-me-maybe-carly-rae-jepsen/' | relative_url }}) |
 | 2012-03-05 | KONY 2012 Campaign | Society & Economics | [link]({{ '/news/society-economics/kony-2012-campaign/' | relative_url }}) |
+| 2012-03-09 | John Carter (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/john-carter-2012-film/' | relative_url }}) |
 | 2012-03-18 | 2012 Formula One Season and Sebastian Vettel's Third Championship | Society & Economics | [link]({{ '/news/society-economics/formula-one-2012-season/' | relative_url }}) |
 | 2012-03-23 | The Hunger Games (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/the-hunger-games-2012-film/' | relative_url }}) |
 | 2012-04-09 | Instagram Facebook Acquisition 2012 | Science & Technology | [link]({{ '/news/science-technology/instagram-facebook-acquisition-2012/' | relative_url }}) |
@@ -35,6 +37,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-06-01 | Spain's 2012 Banking and Property Crisis | Society & Economics | [link]({{ '/news/society-economics/spain-banking-property-crisis/' | relative_url }}) |
 | 2012-06-05 | Queen Elizabeth II Diamond Jubilee | History & Politics | [link]({{ '/news/history-politics/queen-elizabeth-diamond-jubilee-2012/' | relative_url }}) |
 | 2012-06-06 | Venus Transit of June 2012 | Science & Technology | [link]({{ '/news/science-technology/venus-transit-june-2012/' | relative_url }}) |
+| 2012-06-22 | Jerry Sandusky and the Penn State Sexual Abuse Scandal | Society & Economics | [link]({{ '/news/society-economics/jerry-sandusky-penn-state-scandal/' | relative_url }}) |
 | 2012-06-24 | The Newsroom HBO Series 2012 Premiere | Arts & Culture | [link]({{ '/news/arts-culture/the-newsroom-hbo-2012/' | relative_url }}) |
 | 2012-06-28 | NFIB v. Sebelius: Supreme Court Upholds Affordable Care Act | History & Politics | [link]({{ '/news/history-politics/nfib-sebelius-affordable-care-act/' | relative_url }}) |
 | 2012-06-30 | Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood | People | [link]({{ '/news/people/mohamed-morsi-2012-presidency/' | relative_url }}) |
