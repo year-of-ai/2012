@@ -12,6 +12,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | Date | Item | Category | Link |
 |------|------|----------|------|
 | 2009-10-02 | Rio 2016 Olympic Bid Success | History & Politics | [link]({{ '/news/history-politics/rio-2016-olympic-bid/' | relative_url }}) |
+| 2012-01-01 | GoPro and the Action Camera Rise (2012) | Science & Technology | [link]({{ '/news/science-technology/gopro-action-camera-2012/' | relative_url }}) |
 | 2012-01-01 | Quantum Computing Advances 2012 | Science & Technology | [link]({{ '/news/science-technology/quantum-computing-advances-2012/' | relative_url }}) |
 | 2012-01-08 | Tebowing Cultural Phenomenon | Society & Economics | [link]({{ '/news/society-economics/tebowing-phenomenon-2012/' | relative_url }}) |
 | 2012-01-13 | Costa Concordia Disaster | Society & Economics | [link]({{ '/news/society-economics/costa-concordia-disaster/' | relative_url }}) |
@@ -49,6 +50,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-07-16 | Marissa Mayer Becomes Yahoo CEO | People | [link]({{ '/news/people/marissa-mayer-yahoo-ceo-2012/' | relative_url }}) |
 | 2012-07-20 | The Dark Knight Rises (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/the-dark-knight-rises/' | relative_url }}) |
 | 2012-07-20 | Aurora, Colorado Theater Shooting | Society & Economics | [link]({{ '/news/society-economics/aurora-theater-shooting-2012/' | relative_url }}) |
+| 2012-07-27 | 2012 London Olympics Technology & Broadcasting | Science & Technology | [link]({{ '/news/science-technology/london-2012-olympics-technology-broadcasting/' | relative_url }}) |
 | 2012-07-27 | 2012 London Summer Olympics | History & Politics | [link]({{ '/news/history-politics/london-2012-olympics/' | relative_url }}) |
 | 2012-07-27 | London 2012 Olympics Opening Ceremony | History & Politics | [link]({{ '/news/history-politics/london-2012-opening-ceremony/' | relative_url }}) |
 | 2012-07-28 | Michael Phelps's 2012 Olympic Swimming Performance | History & Politics | [link]({{ '/news/history-politics/michael-phelps-2012-olympics/' | relative_url }}) |
