@@ -22,6 +22,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-02-11 | Whitney Houston's Death (February 2012) | Arts & Culture | [link]({{ '/news/arts-culture/whitney-houston-death/' | relative_url }}) |
 | 2012-02-12 | Adele's Album "21" — 2012 Dominance | Arts & Culture | [link]({{ '/news/arts-culture/adeles-21-album/' | relative_url }}) |
 | 2012-02-14 | "Call Me Maybe" by Carly Rae Jepsen | Arts & Culture | [link]({{ '/news/arts-culture/call-me-maybe-carly-rae-jepsen/' | relative_url }}) |
+| 2012-02-26 | The Shooting of Trayvon Martin (February 2012) | Society & Economics | [link]({{ '/news/society-economics/trayvon-martin-shooting-2012/' | relative_url }}) |
 | 2012-03-05 | KONY 2012 Campaign | Society & Economics | [link]({{ '/news/society-economics/kony-2012-campaign/' | relative_url }}) |
 | 2012-03-09 | John Carter (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/john-carter-2012-film/' | relative_url }}) |
 | 2012-03-18 | 2012 Formula One Season and Sebastian Vettel's Third Championship | Society & Economics | [link]({{ '/news/society-economics/formula-one-2012-season/' | relative_url }}) |
@@ -30,9 +31,11 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-04-15 | Kim Jong-un's 2012 Leadership Consolidation in North Korea | People | [link]({{ '/news/people/kim-jong-un-2012-succession/' | relative_url }}) |
 | 2012-05-01 | Occupy Wall Street — 2012 Momentum | Society & Economics | [link]({{ '/news/society-economics/occupy-wall-street-2012/' | relative_url }}) |
 | 2012-05-04 | The Avengers (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/the-avengers-2012-film/' | relative_url }}) |
+| 2012-05-06 | 2012 French Presidential Election — François Hollande's Victory | History & Politics | [link]({{ '/news/history-politics/france-2012-presidential-election/' | relative_url }}) |
 | 2012-05-07 | Vladimir Putin — 2012 Return to Presidency | People | [link]({{ '/news/people/vladimir-putin-2012-presidency/' | relative_url }}) |
 | 2012-05-18 | Facebook Initial Public Offering 2012 | Society & Economics | [link]({{ '/news/society-economics/facebook-ipo-2012/' | relative_url }}) |
 | 2012-05-19 | London 2012 Olympic Torch Relay | History & Politics | [link]({{ '/news/history-politics/london-2012-torch-relay/' | relative_url }}) |
+| 2012-05-25 | SpaceX Dragon Berths with the ISS (May 2012) | Science & Technology | [link]({{ '/news/science-technology/spacex-dragon-iss-2012/' | relative_url }}) |
 | 2012-05-29 | 2012 Amazon Basin Record Flood | Society & Economics | [link]({{ '/news/society-economics/amazon-flood-2012/' | relative_url }}) |
 | 2012-06-01 | European Debt Crisis — 2012 Escalation | Society & Economics | [link]({{ '/news/society-economics/european-debt-crisis-2012/' | relative_url }}) |
 | 2012-06-01 | Spain's 2012 Banking and Property Crisis | Society & Economics | [link]({{ '/news/society-economics/spain-banking-property-crisis/' | relative_url }}) |
