@@ -23,6 +23,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-02-12 | Adele's Album "21" — 2012 Dominance | Arts & Culture | [link]({{ '/news/arts-culture/adeles-21-album/' | relative_url }}) |
 | 2012-02-14 | "Call Me Maybe" by Carly Rae Jepsen | Arts & Culture | [link]({{ '/news/arts-culture/call-me-maybe-carly-rae-jepsen/' | relative_url }}) |
 | 2012-02-26 | The Shooting of Trayvon Martin (February 2012) | Society & Economics | [link]({{ '/news/society-economics/trayvon-martin-shooting-2012/' | relative_url }}) |
+| 2012-02-29 | The Raspberry Pi Launch (February 2012) | Science & Technology | [link]({{ '/news/science-technology/raspberry-pi-launch-2012/' | relative_url }}) |
 | 2012-03-05 | KONY 2012 Campaign | Society & Economics | [link]({{ '/news/society-economics/kony-2012-campaign/' | relative_url }}) |
 | 2012-03-09 | John Carter (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/john-carter-2012-film/' | relative_url }}) |
 | 2012-03-18 | 2012 Formula One Season and Sebastian Vettel's Third Championship | Society & Economics | [link]({{ '/news/society-economics/formula-one-2012-season/' | relative_url }}) |
@@ -43,6 +44,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-06-06 | Venus Transit of June 2012 | Science & Technology | [link]({{ '/news/science-technology/venus-transit-june-2012/' | relative_url }}) |
 | 2012-06-22 | Jerry Sandusky and the Penn State Sexual Abuse Scandal | Society & Economics | [link]({{ '/news/society-economics/jerry-sandusky-penn-state-scandal/' | relative_url }}) |
 | 2012-06-24 | The Newsroom HBO Series 2012 Premiere | Arts & Culture | [link]({{ '/news/arts-culture/the-newsroom-hbo-2012/' | relative_url }}) |
+| 2012-06-27 | The LIBOR Scandal and the Barclays Fine (June 2012) | Society & Economics | [link]({{ '/news/society-economics/libor-scandal-2012/' | relative_url }}) |
 | 2012-06-28 | NFIB v. Sebelius: Supreme Court Upholds Affordable Care Act | History & Politics | [link]({{ '/news/history-politics/nfib-sebelius-affordable-care-act/' | relative_url }}) |
 | 2012-06-30 | Mohamed Morsi — 2012 Egyptian Presidency and Muslim Brotherhood | People | [link]({{ '/news/people/mohamed-morsi-2012-presidency/' | relative_url }}) |
 | 2012-07-01 | UEFA Euro 2012 Football Championship | Arts & Culture | [link]({{ '/news/arts-culture/euro-2012-football-championship/' | relative_url }}) |
