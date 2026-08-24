@@ -28,6 +28,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-03-09 | John Carter (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/john-carter-2012-film/' | relative_url }}) |
 | 2012-03-18 | 2012 Formula One Season and Sebastian Vettel's Third Championship | Society & Economics | [link]({{ '/news/society-economics/formula-one-2012-season/' | relative_url }}) |
 | 2012-03-23 | The Hunger Games (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/the-hunger-games-2012-film/' | relative_url }}) |
+| 2012-04-01 | Aung San Suu Kyi Enters Myanmar's Parliament (2012) | History & Politics | [link]({{ '/news/history-politics/aung-san-suu-kyi-parliament-2012/' | relative_url }}) |
 | 2012-04-09 | Instagram Facebook Acquisition 2012 | Science & Technology | [link]({{ '/news/science-technology/instagram-facebook-acquisition-2012/' | relative_url }}) |
 | 2012-04-15 | Kim Jong-un's 2012 Leadership Consolidation in North Korea | People | [link]({{ '/news/people/kim-jong-un-2012-succession/' | relative_url }}) |
 | 2012-05-01 | Occupy Wall Street — 2012 Momentum | Society & Economics | [link]({{ '/news/society-economics/occupy-wall-street-2012/' | relative_url }}) |
@@ -60,6 +61,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-07-27 | London 2012 Olympics Opening Ceremony | History & Politics | [link]({{ '/news/history-politics/london-2012-opening-ceremony/' | relative_url }}) |
 | 2012-07-28 | Michael Phelps's 2012 Olympic Swimming Performance | History & Politics | [link]({{ '/news/history-politics/michael-phelps-2012-olympics/' | relative_url }}) |
 | 2012-07-28 | 2012 London Olympics Equestrian Events | History & Politics | [link]({{ '/news/history-politics/london-2012-equestrian-events/' | relative_url }}) |
+| 2012-07-31 | The 2012 India Blackouts (July 2012) | Science & Technology | [link]({{ '/news/science-technology/india-blackout-2012/' | relative_url }}) |
 | 2012-08-05 | Usain Bolt's 100m Olympic Gold and World Record | History & Politics | [link]({{ '/news/history-politics/usain-bolt-100m-olympic-gold-2012/' | relative_url }}) |
 | 2012-08-06 | Curiosity Rover Mars Landing | Science & Technology | [link]({{ '/news/science-technology/curiosity-rover-mars-landing/' | relative_url }}) |
 | 2012-08-12 | 2012 Summer Olympics Closing Ceremony | History & Politics | [link]({{ '/news/history-politics/london-2012-closing-ceremony/' | relative_url }}) |
