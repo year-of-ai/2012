@@ -19,9 +19,11 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-01-18 | SOPA/PIPA 2012 Internet Activism | Science & Technology | [link]({{ '/news/science-technology/sopa-pipa-2012-activism/' | relative_url }}) |
 | 2012-01-19 | Kodak Bankruptcy (January 2012) | Society & Economics | [link]({{ '/news/society-economics/kodak-bankruptcy-2012/' | relative_url }}) |
 | 2012-01-31 | Susan G. Komen–Planned Parenthood Controversy | Society & Economics | [link]({{ '/news/society-economics/susan-g-komen-planned-parenthood-controversy/' | relative_url }}) |
+| 2012-02-05 | Super Bowl XLVI | Society & Economics | [link]({{ '/news/society-economics/super-bowl-xlvi/' | relative_url }}) |
 | 2012-02-11 | Whitney Houston's Death (February 2012) | Arts & Culture | [link]({{ '/news/arts-culture/whitney-houston-death/' | relative_url }}) |
 | 2012-02-12 | Adele's Album "21" — 2012 Dominance | Arts & Culture | [link]({{ '/news/arts-culture/adeles-21-album/' | relative_url }}) |
 | 2012-02-14 | "Call Me Maybe" by Carly Rae Jepsen | Arts & Culture | [link]({{ '/news/arts-culture/call-me-maybe-carly-rae-jepsen/' | relative_url }}) |
+| 2012-02-26 | 2012 Oscars / 84th Academy Awards | Arts & Culture | [link]({{ '/news/arts-culture/2012-oscars-84th-academy-awards/' | relative_url }}) |
 | 2012-02-26 | The Shooting of Trayvon Martin (February 2012) | Society & Economics | [link]({{ '/news/society-economics/trayvon-martin-shooting-2012/' | relative_url }}) |
 | 2012-02-29 | The Raspberry Pi Launch (February 2012) | Science & Technology | [link]({{ '/news/science-technology/raspberry-pi-launch-2012/' | relative_url }}) |
 | 2012-03-05 | KONY 2012 Campaign | Society & Economics | [link]({{ '/news/society-economics/kony-2012-campaign/' | relative_url }}) |
@@ -51,6 +53,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-07-01 | UEFA Euro 2012 Football Championship | Arts & Culture | [link]({{ '/news/arts-culture/euro-2012-football-championship/' | relative_url }}) |
 | 2012-07-01 | Fukushima Daiichi and Japan's 2012 Nuclear Restart | Society & Economics | [link]({{ '/news/society-economics/fukushima-nuclear-2012-japan/' | relative_url }}) |
 | 2012-07-04 | Higgs Boson Discovery | Science & Technology | [link]({{ '/news/science-technology/higgs-boson-discovery/' | relative_url }}) |
+| 2012-07-08 | 2012 Wimbledon Championships | Society & Economics | [link]({{ '/news/society-economics/2012-wimbledon-championships/' | relative_url }}) |
 | 2012-07-15 | Syrian Civil War — 2012 Escalation | History & Politics | [link]({{ '/news/history-politics/syrian-civil-war-escalation-2012/' | relative_url }}) |
 | 2012-07-15 | Gangnam Style Viral Phenomenon | Arts & Culture | [link]({{ '/news/arts-culture/gangnam-style-viral-phenomenon/' | relative_url }}) |
 | 2012-07-16 | Marissa Mayer Becomes Yahoo CEO | People | [link]({{ '/news/people/marissa-mayer-yahoo-ceo-2012/' | relative_url }}) |
