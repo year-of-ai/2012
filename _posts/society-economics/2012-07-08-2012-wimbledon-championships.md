@@ -22,7 +22,7 @@ Federer's path included victories over Julien Benneteau (coming from two sets do
 
 ### The Final: Federer vs. Murray
 
-The men's final on July 8 drew a crowd of 15,000 on Centre Court and approximately 17.3 million television viewers in the United Kingdom — the most-watched Wimbledon final in British broadcasting history to that point, driven by Murray's status as the first British finalist since 1938 (Tim Henman had reached the semifinals four times but never the final). Queen Elizabeth II attended the final as part of her Diamond Jubilee year celebrations.
+The men's final on July 8 drew a crowd of 15,000 on Centre Court and approximately 17.3 million television viewers in the United Kingdom — the most-watched Wimbledon final in British broadcasting history to that point, driven by Murray's status as the first British finalist since 1938 (Tim Henman had reached the semifinals four times but never the final). The final unfolded during Queen Elizabeth II's Diamond Jubilee year, adding to the sense of national occasion surrounding Murray's bid.
 
 Federer won 4–6, 7–5, 6–3, 6–4 in 3 hours and 24 minutes. The second set proved pivotal: Murray served for the set at 5–4, 5–5, and 6–5, but Federer broke at the critical moment and won the set on a tie-break, shifting the match's momentum decisively in his favor. The victory was Federer's **17th Grand Slam title** at the time, extending the men's record he had set in 2009. His seven Wimbledon titles surpassed Pete Sampras's previous record of six.
 
@@ -34,7 +34,7 @@ Murray's post-match speech became widely circulated: visibly emotional, he ackno
 
 Serena Williams entered Wimbledon 2012 unseeded — ranked 29th in the world after a difficult 2010–2011 period in which she dealt with a pulmonary embolism, a foot injury, and a lengthy absence from the tour. Her run through the draw was dominant. She dropped only one set en route to the final and did not face a seeded opponent until the quarterfinals.
 
-In the final against Poland's Agnieszka Radwańska (seeded third), Williams won 6–3, 6–2 in 68 minutes. The scoreline reflected her physical superiority: her average first-serve speed during the tournament was approximately 112 mph, and her serve-and-baseline combination left opponents with little response. The victory was her **fifth Wimbledon singles title** (2003, 2009, 2010, 2012) and brought her Grand Slam total to 14, matching her contemporary Martina Navratilova's count at the same career stage.
+In the final against Poland's Agnieszka Radwańska (seeded third), Williams won 6–3, 6–2 in 68 minutes. The scoreline reflected her physical superiority: her average first-serve speed during the tournament was approximately 112 mph, and her serve-and-baseline combination left opponents with little response. The victory was her **fifth Wimbledon singles title** (2003, 2009, 2010, 2012) and brought her career Grand Slam singles total to 14.
 
 ## Doubles and Mixed Competitions
 
@@ -56,7 +56,7 @@ Total attendance for the 2012 Championships was **484,318** — slightly below t
 
 ## Historical Context and Legacy
 
-The 2012 Wimbledon Championships occurred against the backdrop of London's year-long Diamond Jubilee celebrations for Queen Elizabeth II, who had reigned for 60 years. Her Centre Court appearance for the men's final was the first time the monarch had attended the tournament since 1977. The timing created an exceptional convergence of national cultural pride with elite international sport — a model that the Olympics weeks later would amplify on a global scale.
+The 2012 Wimbledon Championships occurred against the backdrop of London's year-long Diamond Jubilee celebrations for Queen Elizabeth II, who had reigned for 60 years. The Queen's most recent visit to the tournament had come in June 2010 — her first appearance in the royal box since 1977 — when she watched Murray win a second-round match; she did not attend in 2012. The convergence of Jubilee pageantry, a home finalist, and the imminent Olympics created an exceptional moment of national cultural pride around elite international sport — a mood the Games weeks later would amplify on a global scale.
 
 For Federer, the 2012 Wimbledon title began a two-year period of re-ascendance: he returned to world number one in the ATP rankings in July 2012 after the win. For Serena, the title signaled her full return to dominance following health setbacks — she would go on to win the US Open in 2012 and the French Open, US Open, and Wimbledon in 2013.
 

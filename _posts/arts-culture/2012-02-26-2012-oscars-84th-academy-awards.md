@@ -28,7 +28,7 @@ Martin Scorsese's *Hugo* led all films with eleven nominations and won five tech
 
 ### Acting Awards
 
-- **Best Actress**: Meryl Streep (*The Iron Lady*) — her third win after *Kramer vs. Kramer* (1979) and *Sophie's Choice* (1982), and the longest gap between wins in Oscar acting history (29 years)
+- **Best Actress**: Meryl Streep (*The Iron Lady*) — her third competitive Oscar, coming 29 years after her second win for *Sophie's Choice* (at the April 1983 ceremony) and 32 years after her first for *Kramer vs. Kramer* (April 1980)
 - **Best Supporting Actor**: Christopher Plummer (*Beginners*), age 82 — became the oldest competitive Academy Award winner in history
 - **Best Supporting Actress**: Octavia Spencer (*The Help*)
 
