@@ -82,6 +82,7 @@ Rosberg's maiden victory was a breakthrough moment for Mercedes, the constructor
 - [London 2012 Olympics]({{ '/news/history-politics/london-2012-olympics/' | relative_url }}) — the summer's dominant sporting event, overlapping the Formula One mid-season break
 - [Lance Armstrong USADA Investigation 2012]({{ '/news/society-economics/lance-armstrong-usada-investigation-2012/' | relative_url }}) — the year's defining sports-integrity story, concluding in October 2012
 - [UEFA Euro 2012 Football Championship]({{ '/news/arts-culture/euro-2012-football-championship/' | relative_url }}) — another of 2012's marquee international sporting competitions, held June–July
+- [Nico Rosberg's 2012 Breakthrough]({{ '/news/society-economics/nico-rosberg-2012-breakthrough/' | relative_url }}) — the maiden pole and victory at the Chinese Grand Prix, one of the season's seven first-time-of-year winners
 
 ## Sources
 

@@ -33,6 +33,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-04-01 | Aung San Suu Kyi Enters Myanmar's Parliament (2012) | History & Politics | [link]({{ '/news/history-politics/aung-san-suu-kyi-parliament-2012/' | relative_url }}) |
 | 2012-04-09 | Instagram Facebook Acquisition 2012 | Science & Technology | [link]({{ '/news/science-technology/instagram-facebook-acquisition-2012/' | relative_url }}) |
 | 2012-04-15 | Kim Jong-un's 2012 Leadership Consolidation in North Korea | People | [link]({{ '/news/people/kim-jong-un-2012-succession/' | relative_url }}) |
+| 2012-04-15 | Nico Rosberg's 2012 Breakthrough — Mercedes's First Modern Victory | Society & Economics | [link]({{ '/news/society-economics/nico-rosberg-2012-breakthrough/' | relative_url }}) |
 | 2012-05-01 | Occupy Wall Street — 2012 Momentum | Society & Economics | [link]({{ '/news/society-economics/occupy-wall-street-2012/' | relative_url }}) |
 | 2012-05-04 | The Avengers (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/the-avengers-2012-film/' | relative_url }}) |
 | 2012-05-06 | 2012 French Presidential Election — François Hollande's Victory | History & Politics | [link]({{ '/news/history-politics/france-2012-presidential-election/' | relative_url }}) |
@@ -45,6 +46,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-06-01 | Spain's 2012 Banking and Property Crisis | Society & Economics | [link]({{ '/news/society-economics/spain-banking-property-crisis/' | relative_url }}) |
 | 2012-06-05 | Queen Elizabeth II Diamond Jubilee | History & Politics | [link]({{ '/news/history-politics/queen-elizabeth-diamond-jubilee-2012/' | relative_url }}) |
 | 2012-06-06 | Venus Transit of June 2012 | Science & Technology | [link]({{ '/news/science-technology/venus-transit-june-2012/' | relative_url }}) |
+| 2012-06-20 | Rio+20 UN Conference on Sustainable Development | Society & Economics | [link]({{ '/news/society-economics/rio-20-2012-sustainable-development/' | relative_url }}) |
 | 2012-06-22 | Jerry Sandusky and the Penn State Sexual Abuse Scandal | Society & Economics | [link]({{ '/news/society-economics/jerry-sandusky-penn-state-scandal/' | relative_url }}) |
 | 2012-06-24 | The Newsroom HBO Series 2012 Premiere | Arts & Culture | [link]({{ '/news/arts-culture/the-newsroom-hbo-2012/' | relative_url }}) |
 | 2012-06-27 | The LIBOR Scandal and the Barclays Fine (June 2012) | Society & Economics | [link]({{ '/news/society-economics/libor-scandal-2012/' | relative_url }}) |
@@ -75,6 +77,7 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-08-25 | Voyager 1 Leaves the Heliosphere | Science & Technology | [link]({{ '/news/science-technology/voyager-1-heliosphere-crossing/' | relative_url }}) |
 | 2012-08-29 | 2012 London Summer Paralympics | History & Politics | [link]({{ '/news/history-politics/london-2012-paralympics/' | relative_url }}) |
 | 2012-08-30 | Clint Eastwood's 2012 RNC Speech and Empty Chair Moment | Society & Economics | [link]({{ '/news/society-economics/clint-eastwood-rnc-speech-2012/' | relative_url }}) |
+| 2012-09-01 | 2012 Global Health Developments and Disease Surveillance | Science & Technology | [link]({{ '/news/science-technology/global-health-developments-2012/' | relative_url }}) |
 | 2012-09-11 | 2012 Senkaku/Diaoyu Islands Dispute | History & Politics | [link]({{ '/news/history-politics/senkaku-diaoyu-dispute-2012/' | relative_url }}) |
 | 2012-09-16 | 2012 Arctic Sea Ice Minimum | Science & Technology | [link]({{ '/news/science-technology/arctic-sea-ice-minimum-2012/' | relative_url }}) |
 | 2012-09-21 | Pro Evolution Soccer 2013 | Arts & Culture | [link]({{ '/news/arts-culture/pro-evolution-soccer-2013/' | relative_url }}) |
