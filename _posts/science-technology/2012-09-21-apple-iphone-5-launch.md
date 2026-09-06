@@ -70,6 +70,7 @@ The iPhone 5 cemented the annual iPhone release cycle as a global consumer event
 - [Instagram Facebook Acquisition 2012]({{ '/news/science-technology/instagram-facebook-acquisition-2012/' | relative_url }}) — the mobile-social app whose growth the iPhone 5's LTE adoption accelerated
 - [Gangnam Style Viral Phenomenon]({{ '/news/arts-culture/gangnam-style-viral-phenomenon/' | relative_url }}) — the mobile-video moment carried by the same LTE smartphone boom
 - [2012 Arctic Sea Ice Minimum]({{ '/news/science-technology/arctic-sea-ice-minimum-2012/' | relative_url }}) — a contemporaneous Science & Technology milestone of the same year
+- [Global Internet Adoption and the Digital Divide (2012)]({{ '/news/science-technology/global-internet-adoption-digital-divide-2012/' | relative_url }}) — the global mobile-broadband surge that LTE flagships like the iPhone 5 exemplified
 
 ## Sources
 

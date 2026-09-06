@@ -80,6 +80,7 @@ For the broader technology industry, Instagram's $1 billion exit for a company w
 - [Facebook Initial Public Offering 2012]({{ '/news/society-economics/facebook-ipo-2012/' | relative_url }}) — Facebook's May IPO, whose post-offering stock decline lowered the value of the stock-and-cash deal that bought Instagram
 - [Kodak Bankruptcy (January 2012)]({{ '/news/society-economics/kodak-bankruptcy-2012/' | relative_url }}) — the century-old photography giant whose January 2012 collapse contrasted starkly with the 13-person Instagram's ~$1 billion valuation months later
 - [SOPA/PIPA 2012 Internet Activism]({{ '/news/science-technology/sopa-pipa-2012-activism/' | relative_url }}) — the January 2012 blackout in which the platform companies acquiring and being acquired mobilized their users as a political constituency
+- [YouTube and Streaming Video Adoption (2012)]({{ '/news/science-technology/youtube-streaming-platforms-2012/' | relative_url }}) — the parallel scaling of another mobile-driven content platform in the same year
 
 ## Sources
 

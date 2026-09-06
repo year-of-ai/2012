@@ -79,6 +79,7 @@ The SOPA/PIPA episode had lasting consequences across multiple dimensions:
 - [Occupy Wall Street — 2012 Momentum]({{ '/news/society-economics/occupy-wall-street-2012/' | relative_url }}) — a parallel networked-activism movement of the same period
 - [Facebook Initial Public Offering 2012]({{ '/news/society-economics/facebook-ipo-2012/' | relative_url }}) — the year's landmark event for the platform companies that joined the blackout
 - [Susan G. Komen–Planned Parenthood Controversy]({{ '/news/society-economics/susan-g-komen-planned-parenthood-controversy/' | relative_url }}) — a firestorm just 13 days after the blackout, in which the same networked mobilization forced a rapid reversal
+- [Global Internet Adoption and the Digital Divide (2012)]({{ '/news/science-technology/global-internet-adoption-digital-divide-2012/' | relative_url }}) — the state of internet access and governance the same year the blackout mobilized users worldwide
 
 ## Sources
 

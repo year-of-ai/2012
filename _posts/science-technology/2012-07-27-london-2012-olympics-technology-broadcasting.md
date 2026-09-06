@@ -95,6 +95,7 @@ The Olympic Park's technology infrastructure—fiber networks, data centers, cel
 - [Instagram Facebook Acquisition 2012]({{ '/news/science-technology/instagram-facebook-acquisition-2012/' | relative_url }}) — the social-media platform that crossed 80 million users during the Olympics, amplified by athlete and fan content
 - [2012 London Summer Olympics]({{ '/news/history-politics/london-2012-olympics/' | relative_url }}) — the broader Olympic event, political context, and cultural significance
 - [London 2012 Olympics Opening Ceremony]({{ '/news/history-politics/london-2012-opening-ceremony/' | relative_url }}) — Danny Boyle's technology-enhanced spectacle, watched by 900 million globally
+- [YouTube and Streaming Video Adoption (2012)]({{ '/news/science-technology/youtube-streaming-platforms-2012/' | relative_url }}) — the same year's shift toward streaming video that the Games' record online audience anticipated
 
 ## Sources
 

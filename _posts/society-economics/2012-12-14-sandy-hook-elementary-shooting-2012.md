@@ -21,6 +21,12 @@ On December 14, 2012, at approximately 9:35 AM, Adam Lanza fatally shot his moth
 
 Sandy Hook became the deadliest incident in Connecticut history and one of the most traumatic mass-shooting events in American collective memory. The tragedy, targeting a kindergarten classroom, reignited fierce national debate over gun control, universal background checks, and restrictions on semi-automatic rifles and high-capacity ammunition magazines. Advocates called for an assault-weapons ban and expanded mental-health screening. Opponents emphasized second-amendment rights and the inadequacy of school security measures. Though federal gun-control legislation failed to pass Congress, the tragedy led to state-level regulations and became a reference point for American gun-policy discourse that persisted for years. The original Sandy Hook Elementary School building was demolished and rebuilt in a new location. In response to the tragedy, several advocacy organizations were founded, most notably Sandy Hook Promise, which works to prevent school shootings through evidence-based programs and policy advocacy. The shooting also sparked international discussions about gun access and school safety and remains a watershed moment in discussions of American mass violence.
 
+## See Also
+
+- [Aurora, Colorado Theater Shooting (July 20, 2012)]({{ '/news/society-economics/aurora-theater-shooting-2012/' | relative_url }}) — the earlier 2012 mass shooting whose gun-control debate this attack reignited with far greater intensity
+- [Barack Obama — 2012 Re-election Victory]({{ '/news/people/barack-obama-2012-reelection/' | relative_url }}) — the newly re-elected president who called for gun-policy action in the shooting's immediate aftermath
+- [The Shooting of Trayvon Martin (February 2012)]({{ '/news/society-economics/trayvon-martin-shooting-2012/' | relative_url }}) — the year's other defining gun-death case, framing the 2012 debate over firearms and public safety
+
 ## Sources
 
 - [Sandy Hook Elementary School shooting - Wikipedia](https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting)

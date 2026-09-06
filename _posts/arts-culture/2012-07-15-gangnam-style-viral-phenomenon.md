@@ -69,6 +69,7 @@ The song's success also proved a commercial and cultural proof-of-concept for th
 - [The Dark Knight Rises (2012 Film)]({{ '/news/arts-culture/the-dark-knight-rises/' | relative_url }}) — Christopher Nolan's July 2012 blockbuster competing for summer cultural attention with Gangnam Style's release
 - [Tebowing Cultural Phenomenon]({{ '/news/society-economics/tebowing-phenomenon-2012/' | relative_url }}) — a contemporaneous participatory pose meme spread, like the horse dance, by low-barrier bodily imitation across social platforms
 - [Whitney Houston's Death (February 2012)]({{ '/news/arts-culture/whitney-houston-death/' | relative_url }}) — an earlier 2012 music event whose news triggered one of the era's largest single-event social-media surges
+- [YouTube and Streaming Video Adoption (2012)]({{ '/news/science-technology/youtube-streaming-platforms-2012/' | relative_url }}) — the platform on which "Gangnam Style" became the first video to pass one billion views
 
 ## Sources
 

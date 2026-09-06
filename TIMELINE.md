@@ -91,11 +91,13 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-10-26 | Windows 8 Release | Science & Technology | [link]({{ '/news/science-technology/windows-8-release/' | relative_url }}) |
 | 2012-10-29 | Hurricane Sandy — 2012 Atlantic Disaster | Society & Economics | [link]({{ '/news/society-economics/hurricane-sandy-2012/' | relative_url }}) |
 | 2012-10-29 | Occupy Sandy: Mutual-Aid Disaster Response | Society & Economics | [link]({{ '/news/society-economics/occupy-sandy-mutual-aid/' | relative_url }}) |
+| 2012-11-01 | Global Internet Adoption and the Digital Divide (2012) | Science & Technology | [link]({{ '/news/science-technology/global-internet-adoption-digital-divide-2012/' | relative_url }}) |
 | 2012-11-06 | 2012 United States Presidential Election | History & Politics | [link]({{ '/news/history-politics/2012-us-presidential-election/' | relative_url }}) |
 | 2012-11-06 | Barack Obama — 2012 Re-election Victory | People | [link]({{ '/news/people/barack-obama-2012-reelection/' | relative_url }}) |
 | 2012-11-06 | Mitt Romney 2012 Presidential Campaign | History & Politics | [link]({{ '/news/history-politics/mitt-romney-2012-campaign/' | relative_url }}) |
 | 2012-11-15 | Xi Jinping's 2012 Elevation to General Secretary | People | [link]({{ '/news/people/xi-jinping-2012-elevation/' | relative_url }}) |
 | 2012-11-19 | Juan Manuel Santos — Colombian Peace Process | People | [link]({{ '/news/people/juan-manuel-santos-peace-process/' | relative_url }}) |
+| 2012-12-01 | YouTube and Streaming Video Adoption (2012) | Science & Technology | [link]({{ '/news/science-technology/youtube-streaming-platforms-2012/' | relative_url }}) |
 | 2012-12-14 | The Hobbit: An Unexpected Journey | Arts & Culture | [link]({{ '/news/arts-culture/the-hobbit-unexpected-journey/' | relative_url }}) |
 | 2012-12-14 | Peter Jackson — Filmmaker and The Hobbit Trilogy Creator | People | [link]({{ '/news/people/peter-jackson-filmmaker/' | relative_url }}) |
 | 2012-12-14 | Sandy Hook Elementary School Shooting | Society & Economics | [link]({{ '/news/society-economics/sandy-hook-elementary-shooting-2012/' | relative_url }}) |

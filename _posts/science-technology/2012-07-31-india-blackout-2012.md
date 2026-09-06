@@ -61,6 +61,7 @@ The July 2012 outages became a standard case study in power-system engineering a
 - [Fukushima Daiichi and Japan's 2012 Nuclear Restart]({{ '/news/society-economics/fukushima-nuclear-2012-japan/' | relative_url }}) — another 2012 story about the reliability and politics of large-scale power supply in Asia
 - [Hurricane Sandy — 2012 Atlantic Disaster]({{ '/news/society-economics/hurricane-sandy-2012/' | relative_url }}) — a 2012 disaster that likewise caused mass, prolonged power outages and infrastructure failure
 - [2012 Arctic Sea Ice Minimum]({{ '/news/science-technology/arctic-sea-ice-minimum-2012/' | relative_url }}) — the year's marker of the shifting climate whose weakened monsoon fed into the blackout
+- [Global Internet Adoption and the Digital Divide (2012)]({{ '/news/science-technology/global-internet-adoption-digital-divide-2012/' | relative_url }}) — the internet-dependent population whose access the grid collapse abruptly severed
 
 ## Sources
 

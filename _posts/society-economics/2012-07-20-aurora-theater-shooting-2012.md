@@ -21,6 +21,12 @@ On July 20, 2012, at approximately 12:38 AM, James Eagan Holmes opened fire duri
 
 The Aurora theater shooting was the deadliest mass shooting in Colorado since the Columbine High School massacre in 1999. The tragedy reignited national debate over gun control, second-amendment rights, and mass-shooting prevention. Theater chains nationwide implemented heightened security measures and restricted midnight showings of the film in select locations. Gun sales in Colorado spiked 43% in the week following the attack, reflecting divided public response to the incident. The attack also shifted discourse around mental-health screening and the dangers of high-capacity ammunition magazines. Holmes was convicted on all 165 counts—including 24 counts of first-degree murder, 140 counts of attempted murder, and one count of explosives charges—in July 2015 and sentenced to life imprisonment without the possibility of parole. The tragedy became a reference point for mass-shooting prevention discussions and influenced security protocols at public venues nationwide.
 
+## See Also
+
+- [Sandy Hook Elementary School Shooting (December 14, 2012)]({{ '/news/society-economics/sandy-hook-elementary-shooting-2012/' | relative_url }}) — the second mass shooting of 2012 that, five months later, intensified the gun-control debate this attack had reopened
+- [The Dark Knight Rises (2012 Film)]({{ '/news/arts-culture/the-dark-knight-rises/' | relative_url }}) — the film whose midnight premiere the attack targeted, prompting heightened theater security nationwide
+- [The Shooting of Trayvon Martin (February 2012)]({{ '/news/society-economics/trayvon-martin-shooting-2012/' | relative_url }}) — another 2012 killing that drove national debate over violence, self-defense law, and public safety
+
 ## Sources
 
 - [2012 Aurora theater shooting - Wikipedia](https://en.wikipedia.org/wiki/2012_Aurora_theater_shooting)
