@@ -87,6 +87,7 @@ Occupy Sandy remains cited in academic and practitioner literature on disaster r
 
 - [Hurricane Sandy — 2012 Atlantic Disaster]({{ '/news/society-economics/hurricane-sandy-2012/' | relative_url }}) — the storm whose flooding and power outages the mutual-aid network mobilized to answer
 - [Occupy Wall Street — 2012 Momentum]({{ '/news/society-economics/occupy-wall-street-2012/' | relative_url }}) — the movement whose organizers, communication tools, and trust networks were repurposed into disaster relief
+- [Occupy Wall Street Founders and the Movement's Ideological Core]({{ '/news/people/occupy-wall-street-founders/' | relative_url }}) — the horizontalist, mutual-aid organizing principles (traced to figures like David Graeber) that Occupy Sandy put into practice
 - [KONY 2012 Campaign]({{ '/news/society-economics/kony-2012-campaign/' | relative_url }}) — another 2012 case of social media driving rapid, large-scale civic mobilization
 - [2012 Arctic Sea Ice Minimum]({{ '/news/science-technology/arctic-sea-ice-minimum-2012/' | relative_url }}) — the record Arctic melt of the same year, central to the climate-and-storms debate the disaster reignited
 

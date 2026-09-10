@@ -68,6 +68,7 @@ OWS's 2012 activity belongs to a global wave of protest movements that defined t
 
 ## See Also
 
+- [Occupy Wall Street Founders and the Movement's Ideological Core]({{ '/news/people/occupy-wall-street-founders/' | relative_url }}) — the organizers and thinkers (Kalle Lasn, Micah White, David Graeber) whose ideas shaped the movement chronicled here
 - [2012 U.S. Presidential Election]({{ '/news/history-politics/2012-us-presidential-election/' | relative_url }}) — the electoral context in which OWS's economic critique intersected with campaign politics
 - [Barack Obama's 2012 Reelection]({{ '/news/people/barack-obama-2012-reelection/' | relative_url }}) — the winning candidate whose economic messaging shifted measurably in response to inequality discourse
 - [2012 US Fiscal Cliff and Congressional Negotiations]({{ '/news/history-politics/us-fiscal-cliff-2012/' | relative_url }}) — year-end economic crisis that Occupy framed as consequence of deregulation and inequality

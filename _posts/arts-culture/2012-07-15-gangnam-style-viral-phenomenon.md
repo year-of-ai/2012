@@ -70,6 +70,7 @@ The song's success also proved a commercial and cultural proof-of-concept for th
 - [Tebowing Cultural Phenomenon]({{ '/news/society-economics/tebowing-phenomenon-2012/' | relative_url }}) — a contemporaneous participatory pose meme spread, like the horse dance, by low-barrier bodily imitation across social platforms
 - [Whitney Houston's Death (February 2012)]({{ '/news/arts-culture/whitney-houston-death/' | relative_url }}) — an earlier 2012 music event whose news triggered one of the era's largest single-event social-media surges
 - [YouTube and Streaming Video Adoption (2012)]({{ '/news/science-technology/youtube-streaming-platforms-2012/' | relative_url }}) — the platform on which "Gangnam Style" became the first video to pass one billion views
+- [League of Legends Season 2 World Championship]({{ '/news/arts-culture/league-of-legends-s2-worlds/' | relative_url }}) — another 2012 East-Asian, streaming-native cultural moment that reached a mass global audience without television
 
 ## Sources
 

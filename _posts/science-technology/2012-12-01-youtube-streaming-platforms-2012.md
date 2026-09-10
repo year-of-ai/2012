@@ -66,6 +66,7 @@ The shift to streaming video in 2012 represented a structural transformation in 
 - [Instagram Facebook Acquisition 2012]({{ '/news/science-technology/instagram-facebook-acquisition-2012/' | relative_url }}) — parallel consolidation in social media platforms driven by mobile and content trends
 - [2012 London Olympics Technology & Broadcasting]({{ '/news/science-technology/london-2012-olympics-technology-broadcasting/' | relative_url }}) — the largest live-streaming event to that point, foreshadowing streaming's mainstream scale
 - [Gangnam Style Viral Phenomenon]({{ '/news/arts-culture/gangnam-style-viral-phenomenon/' | relative_url }}) — the YouTube milestone whose billion-view record this article documents
+- [League of Legends Season 2 World Championship]({{ '/news/arts-culture/league-of-legends-s2-worlds/' | relative_url }}) — the October 2012 esports event whose multi-million-viewer live broadcast depended on the streaming infrastructure described here
 
 ## Sources
 

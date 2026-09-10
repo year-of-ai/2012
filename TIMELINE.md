@@ -80,12 +80,14 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-09-01 | 2012 Global Health Developments and Disease Surveillance | Science & Technology | [link]({{ '/news/science-technology/global-health-developments-2012/' | relative_url }}) |
 | 2012-09-11 | 2012 Senkaku/Diaoyu Islands Dispute | History & Politics | [link]({{ '/news/history-politics/senkaku-diaoyu-dispute-2012/' | relative_url }}) |
 | 2012-09-16 | 2012 Arctic Sea Ice Minimum | Science & Technology | [link]({{ '/news/science-technology/arctic-sea-ice-minimum-2012/' | relative_url }}) |
+| 2012-09-17 | Occupy Wall Street Founders and the Movement's Ideological Core | People | [link]({{ '/news/people/occupy-wall-street-founders/' | relative_url }}) |
 | 2012-09-21 | Pro Evolution Soccer 2013 | Arts & Culture | [link]({{ '/news/arts-culture/pro-evolution-soccer-2013/' | relative_url }}) |
 | 2012-09-21 | Apple iPhone 5 Launch | Science & Technology | [link]({{ '/news/science-technology/apple-iphone-5-launch/' | relative_url }}) |
 | 2012-10-03 | 2012 Presidential Debates and Vice Presidential Debate | History & Politics | [link]({{ '/news/history-politics/2012-presidential-debates/' | relative_url }}) |
 | 2012-10-08 | Nobel Prize Announcements 2012 | People | [link]({{ '/news/people/nobel-prize-2012/' | relative_url }}) |
 | 2012-10-09 | Malala Yousafzai October 2012 Shooting | People | [link]({{ '/news/people/malala-yousafzai-2012-shooting/' | relative_url }}) |
 | 2012-10-10 | Lance Armstrong USADA Investigation 2012 | Society & Economics | [link]({{ '/news/society-economics/lance-armstrong-usada-investigation-2012/' | relative_url }}) |
+| 2012-10-13 | League of Legends Season 2 World Championship | Arts & Culture | [link]({{ '/news/arts-culture/league-of-legends-s2-worlds/' | relative_url }}) |
 | 2012-10-14 | Felix Baumgartner Red Bull Stratos (October 2012) | Science & Technology | [link]({{ '/news/science-technology/red-bull-stratos-2012/' | relative_url }}) |
 | 2012-10-23 | Skyfall (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/skyfall-2012-film/' | relative_url }}) |
 | 2012-10-26 | Windows 8 Release | Science & Technology | [link]({{ '/news/science-technology/windows-8-release/' | relative_url }}) |
