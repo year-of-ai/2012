@@ -35,12 +35,14 @@ A chronological index of dated events in this knowledge base. Maintained by the
 | 2012-04-15 | Kim Jong-un's 2012 Leadership Consolidation in North Korea | People | [link]({{ '/news/people/kim-jong-un-2012-succession/' | relative_url }}) |
 | 2012-04-15 | Nico Rosberg's 2012 Breakthrough — Mercedes's First Modern Victory | Society & Economics | [link]({{ '/news/society-economics/nico-rosberg-2012-breakthrough/' | relative_url }}) |
 | 2012-05-01 | Occupy Wall Street — 2012 Momentum | Society & Economics | [link]({{ '/news/society-economics/occupy-wall-street-2012/' | relative_url }}) |
+| 2012-05-01 | The 2012 US Military Pivot to Asia | History & Politics | [link]({{ '/news/history-politics/us-pivot-to-asia-2012/' | relative_url }}) |
 | 2012-05-04 | The Avengers (2012 Film) | Arts & Culture | [link]({{ '/news/arts-culture/the-avengers-2012-film/' | relative_url }}) |
 | 2012-05-06 | 2012 French Presidential Election — François Hollande's Victory | History & Politics | [link]({{ '/news/history-politics/france-2012-presidential-election/' | relative_url }}) |
 | 2012-05-07 | Vladimir Putin — 2012 Return to Presidency | People | [link]({{ '/news/people/vladimir-putin-2012-presidency/' | relative_url }}) |
 | 2012-05-18 | Facebook Initial Public Offering 2012 | Society & Economics | [link]({{ '/news/society-economics/facebook-ipo-2012/' | relative_url }}) |
 | 2012-05-19 | London 2012 Olympic Torch Relay | History & Politics | [link]({{ '/news/history-politics/london-2012-torch-relay/' | relative_url }}) |
 | 2012-05-25 | SpaceX Dragon Berths with the ISS (May 2012) | Science & Technology | [link]({{ '/news/science-technology/spacex-dragon-iss-2012/' | relative_url }}) |
+| 2012-05-25 | Elon Musk — 2012 Leadership of SpaceX and Tesla | People | [link]({{ '/news/people/elon-musk-2012-leadership/' | relative_url }}) |
 | 2012-05-29 | 2012 Amazon Basin Record Flood | Society & Economics | [link]({{ '/news/society-economics/amazon-flood-2012/' | relative_url }}) |
 | 2012-06-01 | European Debt Crisis — 2012 Escalation | Society & Economics | [link]({{ '/news/society-economics/european-debt-crisis-2012/' | relative_url }}) |
 | 2012-06-01 | Spain's 2012 Banking and Property Crisis | Society & Economics | [link]({{ '/news/society-economics/spain-banking-property-crisis/' | relative_url }}) |
